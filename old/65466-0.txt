@@ -1,389 +1,292 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
-"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+The Project Gutenberg eBook of British Marine Painting, by Charles Geoffre
+Holme
 
-<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
-  <head>  <link rel="coverpage" href="images/cover.jpg" />
-<meta http-equiv="Content-Type" content="text/html;charset=UTF-8" />
-<title>
-  The Project Gutenberg eBook of British Marine Painting.
-</title>
-<style type="text/css">
+This eBook is for the use of anyone anywhere in the United States and
+most other parts of the world at no cost and with almost no restrictions
+whatsoever. You may copy it, give it away or re-use it under the terms
+of the Project Gutenberg License included with this eBook or online at
+www.gutenberg.org. If you are not located in the United States, you
+will have to check the laws of the country where you are located before
+using this eBook.
 
-a:link {background-color:#ffffff;color:blue;text-decoration:none;}
+Title: British Marine Painting
 
-  link {background-color:#ffffff;color:blue;text-decoration:none;}
+Author: Charles Geoffre Holme
+        Alfred Lys Baldry
 
-a:visited {background-color:#ffffff;color:purple;text-decoration:none;}
+Release Date: May 29, 2021 [eBook #65466]
 
-a:hover {background-color:#ffffff;color:#FF0000;text-decoration:underline;}
+Language: English
 
-big {font-size: 130%;}
+Character set encoding: UTF-8
 
-body{margin-left:4%;margin-right:6%;background:#ffffff;color:black;font-family:"Times New Roman", serif;font-size:medium;}
+Produced by: Chuck Greif and the Online Distributed Proofreading Team at
+             http://www.pgdp.net (This file was produced from images
+             available at The Internet Archive)
 
-.bbox     {border:solid 2px black;
-margin:4em auto;max-width:4em;}
+*** START OF THE PROJECT GUTENBERG EBOOK BRITISH MARINE PAINTING ***
 
-.c {text-align:center;text-indent:0%;}
 
-.csml {text-align:center;text-indent:0%;
-font-size:75%;}
 
-.fint {text-align:center;text-indent:0%;
-margin-top:2em;}
 
-.figcenter   {margin:3% auto 1% auto;clear:both;
-text-align:center;text-indent:0%;page-break-before:always;}
+                        BRITISH MARINE PAINTING
+                     WITH ARTICLES BY A. L. BALDRY
 
-.figcenter p{text-align:center;}
+                                 1919
 
- h1 {margin-top:5%;text-align:center;clear:both;
-font-weight:normal;}
+                       EDITED BY GEOFFREY HOLME
+              “THE STUDIO” Lᵀᴰ· LONDON · PARIS · NEW YORK
 
- h2 {margin-top:4%;margin-bottom:2%;text-align:center;clear:both;
- font-size:130%;font-weight:normal;}
 
- hr {width:90%;margin:2em auto 2em auto;clear:both;color:black;}
 
- hr.full {width: 60%;margin:2% auto 2% auto;border-top:1px solid black;
-padding:.1em;border-bottom:1px solid black;border-left:none;border-right:none;}
 
- img {border:none;}
+CONTENTS
 
-.letra {font-size:250%;float:left;margin-top:-1%;}
 
-.nind {text-indent:0%;}
+ARTICLES BY A. L. BALDRY
 
-.nonvis {display:inline;}
-.x-bookmaker .nonvis  {display: none;}
- @media print, handheld
- {.nonvis
- {display: none;}
- }
+                                                                    PAGE
 
- p {margin-top:.5em;text-align:justify;margin-bottom:.2em;text-indent:0%;}
+British Marine Painting                                                9
+Notes on the Illustrations                                            24
 
-.pagenum  {font-style:normal;position:absolute;
-left:95%;font-size:55%;text-align:right;color:gray;
-background-color:#ffffff;font-variant:normal;font-style:normal;font-weight:normal;text-decoration:none;text-indent:0em;}
-.x-bookmaker .pagenum {display: none;}
 
-.pdd {padding-left:1em;text-indent:-1em;}
+ILLUSTRATIONS IN COLOUR
 
-.pddspc {padding-left:3em;text-indent:-1em;}
+Bayes, Walter, A.R.W.S.
+  _The Timid Bather_                                                 113
 
-.r {text-align:right;margin-right: 5%;}
+Brangwyn, Frank, R.A.
+  _In Port_                                                           75
 
-.rt {text-align:right;}
+Brooks, I. W.
+  _In Cymyran Bay_                                                   129
 
-small {font-size: 70%;}
+Constable, John, R.A.
+  _Chesil Beach_                                                      39
 
-table {margin-top:2%;margin-bottom:2%;margin-left:auto;margin-right:auto;border:none;}
+Cox, David
+  _Calais Pier_                                                       49
 
-div.poetry {text-align:center;}
-div.poem {font-size:90%;margin:auto auto;text-indent:0%;
-display: inline-block; text-align: left;}
-.poem .stanza     {margin-top: 1em;margin-bottom:1em;}
-.poem span.i0     {display: block; margin-left: 0em; padding-left: 3em; text-indent: -3em;}
-.poem span.i1     {display: block; margin-left: .45em; padding-left: 3em; text-indent: -3em;}
-.poem span.i8     {display: block; margin-left: 5.5em; padding-left: 3em; text-indent: -3em;}
+Everett, John
+  _Breakers_                                                         119
 
-th {padding-top:1em;padding-bottom:.5em;
-font-weight:normal;}
+Fielding, Copley
+  _Coast Scene_                                                       61
 
-div.pt {text-align:center;}
-div.pp {font-size:100%;margin:2% 25%;text-indent:0%;
-display: inline-block; text-align: left;}
-</style>
-  </head>
-<body>
-<div>*** START OF THE PROJECT GUTENBERG EBOOK 65466 ***</div>
-<hr class="full" />
+Flint, W. Russell, R.W.S.
+  _The Fane Islands_                                                  93
 
-<p class="figcenter">
-<a href="images/cover.jpg">
-<img src="images/cover.jpg"
-height="550" alt="[Image of
-the book's cover unavailable.]" /></a>
-</p>
+Lavery, Sir John, A.R.A., R.S.A.
+  _Evening--The Coast of Spain from Tangier_                          79
 
-<table border="0" cellpadding="0" cellspacing="0" summary=""
-style="border: 2px black solid;margin:auto auto;max-width:50%;
-padding:1%;">
-<tr><td>
+Moore, Henry, R.A.
+  _A Breezy Day_                                                       8
 
-<p class="c"><a href="#CONTENTS">Contents.</a><br />
-<span class="nonvis">(In certain versions of this etext [in certain browsers]
-clicking on the image will bring up a larger version.)</span></p>
+Nevinson, C. R. W.
+  _The Wave_                                                         123
 
-<p class="c">(etext transcriber's note)</p></td></tr>
-</table>
+Pears, Charles
+  _The Needles_                                                      107
 
-<p><span class="pagenum"><a name="page_i" id="page_i">{i}</a></span>&nbsp; </p>
+Simpson, Charles W., R.I., R.B.A.
+  _Landing Fish_                                                      85
 
-<h1>BRITISH MARINE PAINTING<br /><small>
-WITH ARTICLES BY A. L. BALDRY</small></h1>
+Stanfield, W. Clarkson, R.A.
+  _Coast Scene_                                                       55
 
-<div class="bbox"><p class="c">1919</p></div>
+Turner, J. M. W., R.A.
+  _Lowestoft_                                                         45
 
-<p class="c">EDITED BY GEOFFREY HOLME<br />
-“THE STUDIO” Lᵀᴰ· LONDON · PARIS · NEW YORK</p>
+Whistler, J. McNeill
+  _Marine_                                                            69
 
-<p><span class="pagenum"><a name="page_ii" id="page_ii">{ii}</a></span>&nbsp; </p>
-<p><span class="pagenum"><a name="page_iii" id="page_iii">{iii}</a></span>&nbsp; </p>
+Wilkinson, Norman, R.I.
+  _The Wave_                                                         101
 
-<h2><a name="CONTENTS" id="CONTENTS"></a>CONTENTS</h2>
+ILLUSTRATIONS IN MONOTONE
 
-<table border="0" cellpadding="2" cellspacing="0" summary="">
+Allan, Robert W., R.W.S.
+  _Off to the Fishing Grounds_                                        84
 
-<tr><th colspan="2">ARTICLES BY A. L. BALDRY</th></tr>
+Allfree, G. S.
+  _Motor Launches_                                                   127
 
-<tr><td>&nbsp;</td><td class="rt"><small>PAGE</small></td></tr>
-<tr><td class="pdd">British Marine Painting</td><td class="rt" valign="bottom"><a href="#page_9">9</a></td></tr>
-<tr><td class="pdd">Notes on the Illustrations</td><td class="rt" valign="bottom"><a href="#page_24">24</a></td></tr>
+Bayes, Walter, A.R.W.S.
+  _The Red Beach_                                                    112
 
-<tr><th colspan="2">ILLUSTRATIONS IN COLOUR</th></tr>
+Brett, John, A.R.A.
+  _From the Dorsetshire Cliffs_                                       67
 
-<tr><td class="pdd">Bayes, Walter, A.R.W.S.</td></tr>
-<tr><td class="pddspc"><i>The Timid Bather</i></td><td class="rt" valign="bottom"><a href="#page_113">113</a></td></tr>
+Brooking, Charles
+  _The Calm_                                                          35
 
-<tr><td class="pdd">Brangwyn, Frank, R.A.</td></tr>
-<tr><td class="pddspc"><i>In Port</i></td><td class="rt" valign="bottom"><a href="#page_75">75</a></td></tr>
+Brooks, I. W.
+  _Coast Scene_                                                      128
+  _Coast Scene_                                                      131
 
-<tr><td class="pdd">Brooks, I. W.</td></tr>
-<tr><td class="pddspc"><i>In Cymyran Bay</i></td><td class="rt" valign="bottom"><a href="#page_129">129</a></td></tr>
+Brown, W. Marshall, A.R.S.A.
+  _The Sea_                                                          109
 
-<tr><td class="pdd">Constable, John, R.A.</td></tr>
-<tr><td class="pddspc"><i>Chesil Beach</i></td><td class="rt" valign="bottom"><a href="#page_39">39</a></td></tr>
+Burgess, Arthur J. W., R.I.
+  _The Watch that never ends_                                        116
+  _The Scarborough Fleet_                                            117
 
-<tr><td class="pdd">Cox, David</td></tr>
-<tr><td class="pddspc"><i>Calais Pier</i></td><td class="rt" valign="bottom"><a href="#page_49">49</a></td></tr>
+Chambers, George
+  _Off Portsmouth_                                                    52
 
-<tr><td class="pdd">Everett, John</td></tr>
-<tr><td class="pddspc"><i>Breakers</i></td><td class="rt" valign="bottom"><a href="#page_119">119</a></td></tr>
+Cooke, E. W., R.A.
+  _Dutch Boats in a Calm_                                             58
 
-<tr><td class="pdd">Fielding, Copley</td></tr>
-<tr><td class="pddspc"><i>Coast Scene</i></td><td class="rt" valign="bottom"><a href="#page_61">61</a></td></tr>
+Cotman, John Sell
+  _A Galiot in a Storm_                                               48
 
-<tr><td class="pdd">Flint, W. Russell, R.W.S.</td></tr>
-<tr><td class="pddspc"><i>The Fane Islands</i></td><td class="rt" valign="bottom"><a href="#page_93">93</a></td></tr>
+Cox, E. A., R.B.A.
+  _Elizabeth Castle, Channel Islands_                                134
+  _The Good Ship “Rose Elizabeth Novey”_                             135
 
-<tr><td class="pdd">Lavery, Sir John, A.R.A., R.S.A.</td></tr>
-<tr><td class="pddspc"><i>Evening&mdash;The Coast of Spain from Tangier</i></td><td class="rt" valign="bottom"><a href="#page_79">79</a></td></tr>
+Crawford, E. T., R.S.A.
+  _Closehauled, Crossing the Bar_                                     59
 
-<tr><td class="pdd">Moore, Henry, R.A.</td></tr>
-<tr><td class="pddspc"><i>A Breezy Day</i></td><td class="rt" valign="bottom"><a href="#page_8">8</a></td></tr>
+Draper, Herbert
+  _Flying Fish_                                                       87
 
-<tr><td class="pdd">Nevinson, C. R. W.</td></tr>
-<tr><td class="pddspc"><i>The Wave</i></td><td class="rt" valign="bottom"><a href="#page_123">123</a></td></tr>
+Dyce, William, R.A.
+  _Pegwell Bay, 1858_                                                 57
 
-<tr><td class="pdd">Pears, Charles</td></tr>
-<tr><td class="pddspc"><i>The Needles</i></td><td class="rt" valign="bottom"><a href="#page_107">107</a></td></tr>
+Emanuel, Frank L.
+  _The Ancient Port of Fêques_                                       133
 
-<tr><td class="pdd">Simpson, Charles W., R.I., R.B.A.</td></tr>
-<tr><td class="pddspc"><i>Landing Fish</i></td><td class="rt" valign="bottom"><a href="#page_85">85</a></td></tr>
+Everett, John
+  _The Deck of a Tea-Clipper in the Tropics_                         118
 
-<tr><td class="pdd">Stanfield, W. Clarkson, R.A.</td></tr>
-<tr><td class="pddspc"><i>Coast Scene</i></td><td class="rt" valign="bottom"><a href="#page_55">55</a></td></tr>
+Flint, W. Russell, R.W.S.
+  _Passing Sails_                                                     95
 
-<tr><td class="pdd">Turner, J. M. W., R.A.</td></tr>
-<tr><td class="pddspc"><i>Lowestoft</i></td><td class="rt" valign="bottom"><a href="#page_45">45</a></td></tr>
+Hardy, T. B.
+  _A Change of Wind: Boulogne Harbour_                                77
 
-<tr><td class="pdd">Whistler, J. McNeill</td></tr>
-<tr><td class="pddspc"><i>Marine</i></td><td class="rt" valign="bottom"><a href="#page_69">69</a></td></tr>
+Hawksworth, W. T. M., R.B.A.
+  _Low Water, Penzance_                                              125
 
-<tr><td class="pdd">Wilkinson, Norman, R.I.</td></tr>
-<tr><td class="pddspc"><i>The Wave</i></td><td class="rt" valign="bottom"><a href="#page_101">101</a></td></tr>
+Hayes, Edwin, R.H.A., R.I.
+  _Sunset at Sea: from Harlyn Bay, Cornwall_                          63
 
-<tr><th colspan="2">ILLUSTRATIONS IN MONOTONE</th></tr>
+Hemy, C. Napier, R.A., R.W.S.
+  _A Boat Adrift_                                                     78
 
-<tr><td class="pdd">Allan, Robert W., R.W.S.</td></tr>
-<tr><td class="pddspc"><i>Off to the Fishing Grounds</i></td><td class="rt" valign="bottom"><a href="#page_84">84</a></td></tr>
+Holloway, C. E.
+  _The Wreck_                                                         68
 
-<tr><td class="pdd">Allfree, G. S.</td></tr>
-<tr><td class="pddspc"><i>Motor Launches</i></td><td class="rt" valign="bottom"><a href="#page_127">127</a></td></tr>
+Hook, J. C., R.A.
+  _The Seaweed Raker_                                                 71
 
-<tr><td class="pdd">Bayes, Walter, A.R.W.S.</td></tr>
-<tr><td class="pddspc"><i>The Red Beach</i></td><td class="rt" valign="bottom"><a href="#page_112">112</a></td></tr>
+Hunter, Colin, A.R.A.
+  _Farewell to Skye_                                                  73
 
-<tr><td class="pdd">Brett, John, A.R.A.</td></tr>
-<tr><td class="pddspc"><i>From the Dorsetshire Cliffs</i></td><td class="rt" valign="bottom"><a href="#page_67">67</a></td></tr>
+King, Cecil
+  _H.M.S. “Wolsey” in the Ice at Libau_                               97
+  _Regatta Day at Appledore_                                          98
 
-<tr><td class="pdd">Brooking, Charles</td></tr>
-<tr><td class="pddspc"><i>The Calm</i></td><td class="rt" valign="bottom"><a href="#page_35">35</a></td></tr>
+Knight, C. Parsons
+  _The Kyles of Bute_                                                 65
 
-<tr><td class="pdd">Brooks, I. W.</td></tr>
-<tr><td class="pddspc"><i>Coast Scene</i></td><td class="rt" valign="bottom"><a href="#page_128">128</a></td></tr>
-<tr><td class="pddspc"><i>Coast Scene</i></td><td class="rt" valign="bottom"><a href="#page_131">131</a></td></tr>
+Lindner, Moffat, A.R.W.S.
+  _The Storm-Cloud, Christchurch Harbour_                             91
 
-<tr><td class="pdd">Brown, W. Marshall, A.R.S.A.</td></tr>
-<tr><td class="pddspc"><i>The Sea</i></td><td class="rt" valign="bottom"><a href="#page_109">109</a></td></tr>
+McBey, James
+  _Margate_                                                          121
 
-<tr><td class="pdd">Burgess, Arthur J. W., R.I.</td></tr>
-<tr><td class="pddspc"><i>The Watch that never ends</i></td><td class="rt" valign="bottom"><a href="#page_116">116</a></td></tr>
-<tr><td class="pddspc"><i>The Scarborough Fleet</i></td><td class="rt" valign="bottom"><a href="#page_117">117</a></td></tr>
+McTaggart, William, R.S.A.
+  _The Sounding Sea_                                                  74
 
-<tr><td class="pdd">Chambers, George</td></tr>
-<tr><td class="pddspc"><i>Off Portsmouth</i></td><td class="rt" valign="bottom"><a href="#page_52">52</a></td></tr>
+Moore, Henry, R.A.
+  _A Break in the Cloud_                                              72
 
-<tr><td class="pdd">Cooke, E. W., R.A.</td></tr>
-<tr><td class="pddspc"><i>Dutch Boats in a Calm</i></td><td class="rt" valign="bottom"><a href="#page_58">58</a></td></tr>
+Morland, George
+  _Fishermen Hauling in a Boat_                                       37
 
-<tr><td class="pdd">Cotman, John Sell</td></tr>
-<tr><td class="pddspc"><i>A Galiot in a Storm</i></td><td class="rt" valign="bottom"><a href="#page_48">48</a></td></tr>
+Müller, William J.
+  _Dredging on the Medway_                                            60
 
-<tr><td class="pdd">Cox, E. A., R.B.A.</td></tr>
-<tr><td class="pddspc"><i>Elizabeth Castle, Channel Islands</i></td><td class="rt" valign="bottom"><a href="#page_134">134</a></td></tr>
-<tr><td class="pddspc"><i>The Good Ship “Rose Elizabeth Novey”</i></td><td class="rt" valign="bottom"><a href="#page_135">135</a></td></tr>
+Murray, Sir David, R.A., P.R.I., A.R.S.A.
+  _The Fiend’s Weather_                                               89
 
-<tr><td class="pdd">Crawford, E. T., R.S.A.</td></tr>
-<tr><td class="pddspc"><i>Closehauled, Crossing the Bar</i></td><td class="rt" valign="bottom"><a href="#page_59">59</a></td></tr>
+Olsson, Julius, A.R.A.
+  _The Night Wrack_                                                  110
+  _Heavy Weather in the Channel_                                     111
 
-<tr><td class="pdd">Draper, Herbert</td></tr>
-<tr><td class="pddspc"><i>Flying Fish</i></td><td class="rt" valign="bottom"><a href="#page_87">87</a></td></tr>
+Pears, Charles
+  _The Yacht Race_                                                   105
+  _The Examination_                                                  106
 
-<tr><td class="pdd">Dyce, William, R.A.</td></tr>
-<tr><td class="pddspc"><i>Pegwell Bay, 1858</i></td><td class="rt" valign="bottom"><a href="#page_57">57</a></td></tr>
+Pyne, J. B.
+  _Totland Bay_                                                       51
 
-<tr><td class="pdd">Emanuel, Frank L.</td></tr>
-<tr><td class="pddspc"><i>The Ancient Port of Fêques</i></td><td class="rt" valign="bottom"><a href="#page_133">133</a></td></tr>
+Robertson, Tom
+  _Where the Somme meets the Sea_                                     90
 
-<tr><td class="pdd">Everett, John</td></tr>
-<tr><td class="pddspc"><i>The Deck of a Tea-Clipper in the Tropics</i></td><td class="rt" valign="bottom"><a href="#page_118">118</a></td></tr>
+Smart, R. Borlase, R.B.A.
+  _Wet Rocks, St. Ives_                                              126
 
-<tr><td class="pdd">Flint, W. Russell, R.W.S.</td></tr>
-<tr><td class="pddspc"><i>Passing Sails</i></td><td class="rt" valign="bottom"><a href="#page_95">95</a></td></tr>
+Smith, Hely, R.B.A.
+  _Windbound_                                                        104
 
-<tr><td class="pdd">Hardy, T. B.</td></tr>
-<tr><td class="pddspc"><i>A Change of Wind: Boulogne Harbour</i></td><td class="rt" valign="bottom"><a href="#page_77">77</a></td></tr>
+Somerscales, Thomas
+  _Off Valparaiso_                                                    82
+  _Before the Gale_                                                   83
 
-<tr><td class="pdd">Hawksworth, W. T. M., R.B.A.</td></tr>
-<tr><td class="pddspc"><i>Low Water, Penzance</i></td><td class="rt" valign="bottom"><a href="#page_125">125</a></td></tr>
+Stanfield, W. Clarkson, R.A.
+  _The Port of La Rochelle_                                           53
+  _Entrance to the Zuider Zee, Texel Island_                          54
 
-<tr><td class="pdd">Hayes, Edwin, R.H.A., R.I.</td></tr>
-<tr><td class="pddspc"><i>Sunset at Sea: from Harlyn Bay, Cornwall</i></td><td class="rt" valign="bottom"><a href="#page_63">63</a></td></tr>
+Thomson of Duddingston, The Rev. John, R.S.A.
+  _Fast Castle_                                                       47
 
-<tr><td class="pdd">Hemy, C. Napier, R.A., R.W.S.</td></tr>
-<tr><td class="pddspc"><i>A Boat Adrift</i></td><td class="rt" valign="bottom"><a href="#page_78">78</a></td></tr>
+Tollemache, The Hon. Duff
+  _Storm on the Cornish Coast_                                       115
 
-<tr><td class="pdd">Holloway, C. E.</td></tr>
-<tr><td class="pddspc"><i>The Wreck</i></td><td class="rt" valign="bottom"><a href="#page_68">68</a></td></tr>
+Tuke, Henry S., R.A., R.W.S.
+  _August Blue_                                                       88
 
-<tr><td class="pdd">Hook, J. C., R.A.</td></tr>
-<tr><td class="pddspc"><i>The Seaweed Raker</i></td><td class="rt" valign="bottom"><a href="#page_71">71</a></td></tr>
+Turner, J. M. W., R.A.
+  _The Shipwreck_                                                     41
+  _The Prince of Orange landing at Torbay, November 5, 1688_          42
+  _Yacht Racing in the Solent_                                        43
+  _Farne Island_                                                      44
 
-<tr><td class="pdd">Hunter, Colin, A.R.A.</td></tr>
-<tr><td class="pddspc"><i>Farewell to Skye</i></td><td class="rt" valign="bottom"><a href="#page_73">73</a></td></tr>
+Wilkinson, Norman, R.I.
+  _Etretat_                                                           99
+  _Plymouth Harbour_                                                 100
+  _Up Channel_                                                       103
 
-<tr><td class="pdd">King, Cecil</td></tr>
-<tr><td class="pddspc"><i>H.M.S. “Wolsey” in the Ice at Libau</i></td><td class="rt" valign="bottom"><a href="#page_97">97</a></td></tr>
-<tr><td class="pddspc"><i>Regatta Day at Appledore</i></td><td class="rt" valign="bottom"><a href="#page_98">98</a></td></tr>
+Williams, Terrick, R.I.
+  _Clouds over the Sea, Holland_                                     132
 
-<tr><td class="pdd">Knight, C. Parsons</td></tr>
-<tr><td class="pddspc"><i>The Kyles of Bute</i></td><td class="rt" valign="bottom"><a href="#page_65">65</a></td></tr>
+Wilson, John H., R.S.A.
+  _Seapiece_                                                          38
 
-<tr><td class="pdd">Lindner, Moffat, A.R.W.S.</td></tr>
-<tr><td class="pddspc"><i>The Storm-Cloud, Christchurch Harbour</i></td><td class="rt" valign="bottom"><a href="#page_91">91</a></td></tr>
+Wyllie, W. L., R.A.
+  _Blake’s Three Days Engagement with Van Tromp_                      81
 
-<tr><td class="pdd">McBey, James</td></tr>
-<tr><td class="pddspc"><i>Margate</i></td><td class="rt" valign="bottom"><a href="#page_121">121</a></td></tr>
 
-<tr><td class="pdd">McTaggart, William, R.S.A.</td></tr>
-<tr><td class="pddspc"><i>The Sounding Sea</i></td><td class="rt" valign="bottom"><a href="#page_74">74</a></td></tr>
+     THE EDITOR DESIRES TO EXPRESS HIS THANKS TO THE ARTISTS,
+     COLLECTORS, AND THE AUTHORITIES OF PUBLIC GALLERIES WHO HAVE KINDLY
+     ASSISTED HIM IN THE PREPARATION OF THIS VOLUME BY PERMITTING THEIR
+     PICTURES TO BE REPRODUCED. THEIR NAMES APPEAR UNDER THE
+     ILLUSTRATIONS
 
-<tr><td class="pdd">Moore, Henry, R.A.</td></tr>
-<tr><td class="pddspc"><i>A Break in the Cloud</i></td><td class="rt" valign="bottom"><a href="#page_72">72</a></td></tr>
+[Illustration: “A BREEZY DAY.” BY HENRY MOORE, R.A.
 
-<tr><td class="pdd">Morland, George</td></tr>
-<tr><td class="pddspc"><i>Fishermen Hauling in a Boat</i></td><td class="rt" valign="bottom"><a href="#page_37">37</a></td></tr>
+(_In the possession of the Right Hon. Lord Leverhulme_)]
 
-<tr><td class="pdd">Müller, William J.</td></tr>
-<tr><td class="pddspc"><i>Dredging on the Medway</i></td><td class="rt" valign="bottom"><a href="#page_60">60</a></td></tr>
 
-<tr><td class="pdd">Murray, Sir David, R.A., P.R.I., A.R.S.A.</td></tr>
-<tr><td class="pddspc"><i>The Fiend’s Weather</i></td><td class="rt" valign="bottom"><a href="#page_89">89</a></td></tr>
 
-<tr><td class="pdd">Olsson, Julius, A.R.A.</td></tr>
-<tr><td class="pddspc"><i>The Night Wrack</i></td><td class="rt" valign="bottom"><a href="#page_110">110</a></td></tr>
-<tr><td class="pddspc"><i>Heavy Weather in the Channel</i></td><td class="rt" valign="bottom"><a href="#page_111">111</a></td></tr>
 
-<tr><td class="pdd">Pears, Charles</td></tr>
-<tr><td class="pddspc"><i>The Yacht Race</i></td><td class="rt" valign="bottom"><a href="#page_105">105</a></td></tr>
-<tr><td class="pddspc"><i>The Examination</i></td><td class="rt" valign="bottom"><a href="#page_106">106</a></td></tr>
+BRITISH MARINE PAINTING
 
-<tr><td class="pdd">Pyne, J. B.</td></tr>
-<tr><td class="pddspc"><i>Totland Bay</i></td><td class="rt" valign="bottom"><a href="#page_51">51</a></td></tr>
 
-<tr><td class="pdd">Robertson, Tom</td></tr>
-<tr><td class="pddspc"><i>Where the Somme meets the Sea</i></td><td class="rt" valign="bottom"><a href="#page_90">90</a></td></tr>
-
-<tr><td class="pdd">Smart, R. Borlase, R.B.A.</td></tr>
-<tr><td class="pddspc"><i>Wet Rocks, St. Ives</i></td><td class="rt" valign="bottom"><a href="#page_126">126</a></td></tr>
-
-<tr><td class="pdd">Smith, Hely, R.B.A.</td></tr>
-<tr><td class="pddspc"><i>Windbound</i></td><td class="rt" valign="bottom"><a href="#page_104">104</a></td></tr>
-
-<tr><td class="pdd">Somerscales, Thomas</td></tr>
-<tr><td class="pddspc"><i>Off Valparaiso</i></td><td class="rt" valign="bottom"><a href="#page_82">82</a></td></tr>
-<tr><td class="pddspc"><i>Before the Gale</i></td><td class="rt" valign="bottom"><a href="#page_83">83</a></td></tr>
-
-<tr><td class="pdd">Stanfield, W. Clarkson, R.A.</td></tr>
-<tr><td class="pddspc"><i>The Port of La Rochelle</i></td><td class="rt" valign="bottom"><a href="#page_53">53</a></td></tr>
-<tr><td class="pddspc"><i>Entrance to the Zuider Zee, Texel Island</i></td><td class="rt" valign="bottom"><a href="#page_54">54</a></td></tr>
-
-<tr><td class="pdd">Thomson of Duddingston, The Rev. John, R.S.A.</td></tr>
-<tr><td class="pddspc"><i>Fast Castle</i></td><td class="rt" valign="bottom"><a href="#page_47">47</a></td></tr>
-
-<tr><td class="pdd">Tollemache, The Hon. Duff</td></tr>
-<tr><td class="pddspc"><i>Storm on the Cornish Coast</i></td><td class="rt" valign="bottom"><a href="#page_115">115</a></td></tr>
-
-<tr><td class="pdd">Tuke, Henry S., R.A., R.W.S.</td></tr>
-<tr><td class="pddspc"><i>August Blue</i></td><td class="rt" valign="bottom"><a href="#page_88">88</a></td></tr>
-
-<tr><td class="pdd">Turner, J. M. W., R.A.</td></tr>
-<tr><td class="pddspc"><i>The Shipwreck</i></td><td class="rt" valign="bottom"><a href="#page_41">41</a></td></tr>
-<tr><td class="pddspc"><i>The Prince of Orange landing at Torbay, November 5, 1688</i></td><td class="rt" valign="bottom"><a href="#page_42">42</a></td></tr>
-<tr><td class="pddspc"><i>Yacht Racing in the Solent</i></td><td class="rt" valign="bottom"><a href="#page_43">43</a></td></tr>
-<tr><td class="pddspc"><i>Farne Island</i></td><td class="rt" valign="bottom"><a href="#page_44">44</a></td></tr>
-
-<tr><td class="pdd">Wilkinson, Norman, R.I.</td></tr>
-<tr><td class="pddspc"><i>Etretat</i></td><td class="rt" valign="bottom"><a href="#page_99">99</a></td></tr>
-<tr><td class="pddspc"><i>Plymouth Harbour</i></td><td class="rt" valign="bottom"><a href="#page_100">100</a></td></tr>
-<tr><td class="pddspc"><i>Up Channel</i></td><td class="rt" valign="bottom"><a href="#page_103">103</a></td></tr>
-
-<tr><td class="pdd">Williams, Terrick, R.I.</td></tr>
-<tr><td class="pddspc"><i>Clouds over the Sea, Holland</i></td><td class="rt" valign="bottom"><a href="#page_132">132</a></td></tr>
-
-<tr><td class="pdd">Wilson, John H., R.S.A.</td></tr>
-<tr><td class="pddspc"><i>Seapiece</i></td><td class="rt" valign="bottom"><a href="#page_38">38</a></td></tr>
-
-<tr><td class="pdd">Wyllie, W. L., R.A.</td></tr>
-<tr><td class="pddspc"><i>Blake’s Three Days Engagement with Van Tromp</i></td><td class="rt" valign="bottom"><a href="#page_81">81</a></td></tr>
-</table>
-
-<div class="pt"><div class="pp">THE EDITOR DESIRES TO EXPRESS
-<br />HIS THANKS TO THE ARTISTS,
-COL-<br />LECTORS, AND THE AUTHORITIES<br />OF PUBLIC GALLERIES WHO<br />HAVE KINDLY
-ASSISTED HIM IN THE<br />PREPARATION OF THIS VOLUME BY<br />PERMITTING THEIR
-PICTURES TO BE<br />REPRODUCED. THEIR NAMES AP-<br />PEAR UNDER THE
-ILLUSTRATIONS</div></div>
-
-<p><span class="pagenum"><a name="page_vii" id="page_vii">{vii}</a></span>&nbsp; </p>
-
-<p><span class="pagenum"><a name="page_8" id="page_8">{8}</a></span>&nbsp; </p>
-
-<div class="figcenter"><a href="images/ill_pg_008.jpg">
-<img src="images/ill_pg_008.jpg"
-width="600" alt="[Image unavailable.]" /></a>
-<p>“A BREEZY DAY.” BY HENRY MOORE, R.A.</p>
-
-<p class="csml">(<i>In the possession of the Right Hon. Lord Leverhulme</i>)</p></div>
-
-<p><span class="pagenum"><a name="page_9" id="page_9">{9}</a></span></p>
-
-<h2><a name="BRITISH_MARINE_PAINTING" id="BRITISH_MARINE_PAINTING"></a>BRITISH MARINE PAINTING</h2>
-
-<p class="nind"><span class="letra">T</span>O most people it will seem quite natural that British artists should
+To most people it will seem quite natural that British artists should
 give much attention to marine painting. The sea plays a very important
 part in our national affairs, influences the character of the people,
 and affects the political policy of the country, so almost as a matter
@@ -391,16 +294,16 @@ of course it has its place among the sources of inspiration for our
 native art. Sea painters of the higher rank have come with scarcely an
 exception from countries which have an extended coast-line and in which
 the seafaring habit has been developed by centuries of maritime
-activity&mdash;countries in which the use of the sea for purposes of commerce
+activity--countries in which the use of the sea for purposes of commerce
 or communication has been a necessity. Dutch artists have painted the
 sea and shipping and incidents in the life of the dwellers on the coast
 with skill and distinction; there have been sea painters in Denmark,
 Norway, and Sweden, some in France, a few in Italy and Spain; but it is
 in the British Isles most of all that the possibilities of marine
 painting have been recognized and the pictorial material that the sea
-provides has been turned to full account.</p>
+provides has been turned to full account.
 
-<p>No doubt this is partly due to the fact that British art has concerned
+No doubt this is partly due to the fact that British art has concerned
 itself very greatly with what may be called the physical characteristics
 of the country. A considerable proportion of our painters have been
 devoted students of nature, and have occupied themselves with records of
@@ -414,9 +317,9 @@ by a similar sentiment and wish to have about them pictures in which
 this sentiment is agreeably reflected. No record of British scenery
 could be complete, and no appeal to British sentiment could be
 effective, if our artists ignored the wide variety of subjects which the
-sea offers them.</p>
+sea offers them.
 
-<p>For the sea is with us a tradition, and the love of the sea is one of
+For the sea is with us a tradition, and the love of the sea is one of
 the strongest of our national instincts. Because we live on an island
 the sea is at the same time our protection from those who might seek to
 do us harm and our means of communication with the rest of the world; it
@@ -434,22 +337,22 @@ its ample variety of colour. As the sea influences the manner of our
 national life, so it influences the quality, the sentiment, and the
 method of our art, helping us to build up a school which is insular in
 its merit and its expression, and national in its feeling and its
-intention.</p>
+intention.
 
-<p>Yet, curiously enough, in the earlier period of British art history the
+Yet, curiously enough, in the earlier period of British art history the
 names of few painters are recorded who perceived the pictorial interest
 of the sea or tried to realize its beauties. Indeed, at the beginning no
-attention was given<span class="pagenum"><a name="page_10" id="page_10">{10}</a></span> to the study of open-air nature; landscape painting
+attention was given to the study of open-air nature; landscape painting
 was not attempted seriously, and the study of atmospheric effects was
 generally disregarded. The artists of that time occupied themselves
-mainly with portraits&mdash;digressing occasionally into figure
-compositions&mdash;and took little account of anything but the purely human
+mainly with portraits--digressing occasionally into figure
+compositions--and took little account of anything but the purely human
 interest in art. They worked for the glorification of their patrons, to
 adorn the houses of the great, or to prove themselves good sons of the
 Church, not to bring about the conversion of the people who were
-insensible to nature’s charm.</p>
+insensible to nature’s charm.
 
-<p>It would be scarcely fair, however, to accuse the earlier British
+It would be scarcely fair, however, to accuse the earlier British
 artists of insensibility because they worked in this manner within
 circumscribed limits; they only followed, after all, what was the
 fashion of the schools in other countries. In Italy, for instance,
@@ -460,9 +363,9 @@ backgrounds in their figure compositions, but it was landscape of a
 formal and conventionalized kind, a weaving together of details to form
 a pattern which was used merely to fill space or to add something to the
 point of the pictured story. It was never landscape seen and set down as
-the motive of the painting; at best it was only a sort of still life.</p>
+the motive of the painting; at best it was only a sort of still life.
 
-<p>But in Italy at that period the mission of the artist was very exactly
+But in Italy at that period the mission of the artist was very exactly
 defined, and even if he had been inclined to escape from the limitations
 imposed upon his activities, the custom of the time would have been too
 strong for him. He was the servant of the great noble and the obedient
@@ -473,37 +376,33 @@ churchman wanted from him studies of Italian scenery, or desired that he
 should show how he was impressed by the brightness of sunlight or by the
 glory of an evening sky. The severest discouragement would have awaited
 him if he had attempted anything so unconventional; he might even have
-incurred penalties as a man of unseemly and heterodox opinions.</p>
+incurred penalties as a man of unseemly and heterodox opinions.
 
-<p>For a long while British artists worked under restrictions hardly less
+For a long while British artists worked under restrictions hardly less
 rigid. What was demanded of them they supplied, but the demand that they
 should show to the public what nature is like was slow in coming. Word
 pictures of nature there were in plenty; a chorus of poets extolled her
 charm, but no one seemed to perceive that what they found so inspiring
 in their verse could be visualized and made apparent by the painters.
-When Herrick wrote:</p>
+When Herrick wrote:
 
-<div class="poetry">
-<div class="poem"><div class="stanza">
-<span class="i0">“I sing of brooks, of blossoms, birds, and bowers,<br /></span>
-<span class="i1">Of April, May, of June, and July flowers”<br /></span>
-</div></div>
-</div>
+    “I sing of brooks, of blossoms, birds, and bowers,
+     Of April, May, of June, and July flowers”
 
-<p>British artists were looking to Van Dyck as their leader, and were
+British artists were looking to Van Dyck as their leader, and were
 striving, as he did, to immortalize their contemporaries or to tell in
 paint purely human stories. The brooks and blossoms, birds and flowers
 did not claim their consideration or provide them with material for
 popular canvases, and it did not occur to them to paint the groves and
 twilights, the damasked meadows and the pebbly streams, which Herrick
-loved so well.</p>
+loved so well.
 
-<p>In fact, it was not until the eighteenth century that the representation
+In fact, it was not until the eighteenth century that the representation
 of landscape subjects began to be recognized as a legitimate sphere of
 artistic activity. Even then what was required was a very dry and
-commonplace kind of topographical illustration&mdash;a certain number of
+commonplace kind of topographical illustration--a certain number of
 people had developed an interest in British scenery and in the
-archæological relics which were to be found in<span class="pagenum"><a name="page_11" id="page_11">{11}</a></span> different parts of the
+archæological relics which were to be found in different parts of the
 country, and accordingly it became the fashion to collect pictures of
 famous “views” and of ruined abbeys and other ancient buildings. But in
 producing these pictures little scope was allowed to the artist for the
@@ -511,11 +410,11 @@ exercise of his imagination or for the expression of any æsthetic
 sentiment. The more precise and careful he was in his statement of fact,
 the more accurate his paintings were as portraits of the places or
 objects chosen, the better were his clients satisfied. He had to do what
-photography does now&mdash;he had to make a more or less literal diagram of
+photography does now--he had to make a more or less literal diagram of
 his subject with as much of the detail as he could contrive to set down
-and with as little display as possible of his personal taste or fancy.</p>
+and with as little display as possible of his personal taste or fancy.
 
-<p>However, out of this limited and mechanical beginning grew very quickly
+However, out of this limited and mechanical beginning grew very quickly
 a school of landscape practice which substituted the wider study of
 nature for the record of topographical realities. A number of artists
 broke away from restrictions by which they felt themselves to be
@@ -530,9 +429,9 @@ for themselves to follow their personal inclinations towards a more
 rational treatment of nature they gained the sympathetic support of the
 many art lovers who had discovered how cramping the convention was, and
 how seriously it stood in the way of the right kind of development and
-progress.</p>
+progress.
 
-<p>The new school of landscape was deficient neither in enthusiasm nor
+The new school of landscape was deficient neither in enthusiasm nor
 energy. Men of marked originality and brilliant capacity rallied to it
 in large numbers, and with the vigorous initiative of pioneers in a land
 of promise set to work to make their discoveries effective. They wrested
@@ -546,12 +445,12 @@ impression made upon him by the motive in its various aspects was
 appropriately summed up. In a very short time the British landscape
 school became under the stimulus of the new thought and the new methods
 the most important in the world, and the most independent and
-progressive in its practice.</p>
+progressive in its practice.
 
-<p>But, even then, few painters had realized the wonderful pictorial
+But, even then, few painters had realized the wonderful pictorial
 possibilities of the sea. There were some who attempted marine subjects
 and coast scenes but only as occasional diversions from their ordinary
-course of study&mdash;as illustrations of their capacity to deal with nature
+course of study--as illustrations of their capacity to deal with nature
 in any phase or mood, or it may be to gain experience in what was to
 them a novel kind of material. Probably in the eighteenth century an
 excursion to the coast was something of an adventure for men who lived
@@ -562,16 +461,16 @@ his home. Moreover, his clients were mostly stay-at-home people, too,
 who knew the sea only as a sort of vague abstraction, as something they
 had heard about, but of which they had no personal knowledge, and
 therefore their interest in it was too indefinite to be remunerative to
-him. It was more to his<span class="pagenum"><a name="page_12" id="page_12">{12}</a></span> advantage to paint the things they knew than to
-make them realize what seemed to them strange and surprising.</p>
+him. It was more to his advantage to paint the things they knew than to
+make them realize what seemed to them strange and surprising.
 
-<p>Anyhow, nearly all the earlier painters of marine subjects were men who
+Anyhow, nearly all the earlier painters of marine subjects were men who
 had some particular reason for taking to this line of practice. One of
-the first&mdash;Charles Brooking, who was born in 1723&mdash;was brought up in
+the first--Charles Brooking, who was born in 1723--was brought up in
 Deptford Dockyard, and as a not unnatural consequence acquired
 considerable skill in the representation of shipping and naval
-incidents. During the latter part of his short life&mdash;he died at the age
-of thirty-six&mdash;he gave some instruction to Dominic Serres, a Frenchman
+incidents. During the latter part of his short life--he died at the age
+of thirty-six--he gave some instruction to Dominic Serres, a Frenchman
 by birth, who was a foundation member of the Royal Academy and was
 appointed to the post of Marine Painter to the King. Serres had been a
 sailor, and was captured by an English frigate in the war of 1752 when
@@ -580,9 +479,9 @@ with Brooking’s assistance and a good deal of hard work on his own part
 became a painter of repute. In his choice of the direction he followed
 in his art he was, like Brooking, influenced by his earlier associations
 and by the desire to treat pictorially material with which he was
-thoroughly conversant.</p>
+thoroughly conversant.
 
-<p>Another artist of this period who was almost exclusively a marine
+Another artist of this period who was almost exclusively a marine
 painter was Nicholas Pocock, born in 1741. He, too, had been at sea, and
 had commanded a sailing vessel before he adopted the profession of
 painting. Yet another was John Cleveley, born 1745, who is supposed to
@@ -596,9 +495,9 @@ accident cut short his career; his particular place in art was
 determined by the knowledge of his subject which he had gained before he
 turned to the profession of sea painter. And to the list can be added
 George Chambers, born at Whitby in 1803, the son of a seaman, and
-himself a sailor when he was not more than ten years old.</p>
+himself a sailor when he was not more than ten years old.
 
-<p>That men like these should have specialized in sea painting is not
+That men like these should have specialized in sea painting is not
 surprising. It is evident, by their later success as artists, that they
 had the faculty of observation and the capacity to visualize their
 impressions, and almost as a matter of course they were inclined to put
@@ -617,11 +516,11 @@ the coast. The marine painters of our modern days who work with
 conscience and a love of completeness owe, perhaps, more than they
 realize to these predecessors of theirs who established the tradition of
 serious effort to get things right, and who built this tradition upon
-first-hand knowledge.</p>
+first-hand knowledge.
 
-<p>But to some extent it is to the example of these specialists that must
+But to some extent it is to the example of these specialists that must
 also be ascribed the skill in sea painting that, as time went on, was
-attained by many<span class="pagenum"><a name="page_13" id="page_13">{13}</a></span> of their contemporaries who did not deal
+attained by many of their contemporaries who did not deal
 systematically with this class of subject. The habitual landscape
 painter, accustomed to fixed forms and effects that followed more or
 less regular rules, might easily have drifted into a conventional
@@ -637,9 +536,9 @@ essentials of whatever type of material he might elect to handle.
 Therefore, the adoption of a convention, the inadequacy of which could
 have easily been demonstrated, would have been a confession either of
 want of conscience or of deficient intelligence, and would have
-reflected upon his claim to rank as an artist of distinction.</p>
+reflected upon his claim to rank as an artist of distinction.
 
-<p>That is why at the end of the eighteenth century and the beginning of
+That is why at the end of the eighteenth century and the beginning of
 the nineteenth the number of men who, without specializing in the
 subject, painted the sea with undeniable ability, had become
 considerable. By that time artists were moving about much more freely in
@@ -652,20 +551,20 @@ popular artist was called upon to satisfy. So most of the landscape men
 alternated regularly between inland views and coast scenes, and painted
 both with the same sincerity and the same strength of purpose.
 Constable, David Cox, De Wint, Copley Fielding, Edward Duncan, J. S.
-Cotman&mdash;to quote a few of the more notable names&mdash;added important
+Cotman--to quote a few of the more notable names--added important
 records of sea and coast subjects to the list of their more memorable
 productions; and there was, of course, Turner, who might with justice be
 claimed as the greatest of all marine painters despite the fact that his
-sea pictures make up only a small proportion of his total achievement.</p>
+sea pictures make up only a small proportion of his total achievement.
 
-<p>Turner was supreme because he, and he only, estimated at its full value
+Turner was supreme because he, and he only, estimated at its full value
 the poetry and the majesty of the sea; because he alone could grasp its
 immensity and its tragic strength and yet be exquisitely in sympathy
 with its smiling serenity and placid calm. Turner saw and understood the
 drama of the sea, and by the largeness of his vision and the depth of
 his understanding he was enabled to present this drama in all its
 varieties of action. But then, Turner had not only “the eye of an
-eagle”&mdash;as Ruskin said of him&mdash;he had, too, the gift of imagination by
+eagle”--as Ruskin said of him--he had, too, the gift of imagination by
 which realities are transmuted into poetic suggestion. Accuracy of
 detail and plain statement of fact were the foundations on which his art
 was built (and no one made more sure of his facts or looked more closely
@@ -677,7 +576,7 @@ imagination that directed and established the final result; and how
 strong this appeal was can be judged from the amazing beauty and power
 of his accomplishment as a marine painter. Although it has been given to
 no other artist to rival or approach Turner in mastery of
-accomplishment, although it is difficult to believe that there can<span class="pagenum"><a name="page_14" id="page_14">{14}</a></span> ever
+accomplishment, although it is difficult to believe that there can ever
 be another painter who will be able to claim equality with him in the
 same sphere of art, the stimulus of Turner’s example must always be
 vividly felt by every true student of nature, and especially by every
@@ -690,24 +589,20 @@ worthless artistically as an architectural elevation of a mountain
 range, and the more coldly and scientifically correct it was the less
 would it convey of the spirit of the sea. The frame of mind in which the
 painter must assume his task must be akin to that of Thomson when he
-wrote:</p>
+wrote:
 
-<div class="poetry">
-<div class="poem"><div class="stanza">
-<span class="i8">“Thou, majestic main<br /></span>
-<span class="i0">A secret world of wonders in thyself!”<br /></span>
-</div></div>
-</div>
+                “Thou, majestic main
+    A secret world of wonders in thyself!”
 
-<p class="nind">and in this world of wonders he must be prepared always to find some new
+and in this world of wonders he must be prepared always to find some new
 secret which will deepen his sense of the mystery of the sea and make
 him feel that with all his striving he has touched only the fringe of
 its romance. At no stage in his study will he be in a position to say
 that he has learned enough and that his subject has no more to reveal;
 every fresh discovery will open up to him new matters for investigation,
-and suggest other lines of thought.</p>
+and suggest other lines of thought.
 
-<p>Turner, at all events, never came to the conclusion that his knowledge
+Turner, at all events, never came to the conclusion that his knowledge
 of the sea was complete, for to the end of his life he maintained the
 freshness and variety of his interpretation. He gave to it, year by
 year, a deeper note of sentiment, responding always more directly to the
@@ -740,11 +635,11 @@ showed that the pictorial possibilities of the sea had by no means
 escaped them. But none of them arrived at Turner’s magnificent disregard
 of limitations or approached him in dramatic strength, and certainly
 none of them had the courage to abandon, as he did, detailed reality for
-the sake of presenting a higher and more impressive truth.<span class="pagenum"><a name="page_15" id="page_15">{15}</a></span></p>
+the sake of presenting a higher and more impressive truth.
 
-<p>Indeed, that is one of the mysteries of Turner’s genius&mdash;that he could
+Indeed, that is one of the mysteries of Turner’s genius--that he could
 distort facts and leave out apparently essential details and yet make
-his realization of nature perfect in its truth&mdash;and what is still more
+his realization of nature perfect in its truth--and what is still more
 mysterious is that this system of distortion and elimination was not a
 matter of convention but a universally applicable principle of practice
 and one which in his hands was capable of infinite variation. By an
@@ -756,9 +651,9 @@ be made to serve his end. Paradoxically, he left things out to gain a
 greater completeness of result, and he departed from strict correctness
 to secure more absolute reality. But all this he did by the aid of an
 extraordinary insight into nature’s facts and under the guidance of a
-judgment which was never at fault.</p>
+judgment which was never at fault.
 
-<p>That is why Turner’s manner of representing the sea cannot be applied by
+That is why Turner’s manner of representing the sea cannot be applied by
 lesser men. Without any disparagement of the many able marine painters
 who have practised since his time it can safely be said that on none of
 them his mantle has fallen. Certainly to none of them has been granted
@@ -782,11 +677,11 @@ must be content to admire his poetic power without aspiring to rival it.
 But, after all, honest, well-educated, serious prose is better than
 incoherent poetry, no matter how well-intentioned that may be; and
 certainly the prose of many of our modern sea painters is very good
-indeed&mdash;clear, logical, and distinguished by a true sense of style&mdash;and
+indeed--clear, logical, and distinguished by a true sense of style--and
 into much of it comes that touch of poetic feeling that gives charm and
-picturesqueness to the descriptive statement.</p>
+picturesqueness to the descriptive statement.
 
-<p>To illustrate the difference between these two types of sea painting the
+To illustrate the difference between these two types of sea painting the
 work of Henry Moore can appropriately be instanced. He was, next to
 Turner, the most learned and accomplished student of marine motives and
 the finest exponent of the facts of the sea whom any school has
@@ -794,12 +689,12 @@ produced. But beside the dramatic poetry of Turner his art was prose,
 fine prose, persuasive and dignified, but never rising into inspired
 fancy. In other words, he saw nobly and beautifully, but Turner saw and
 imagined as well, and the more he saw the more splendidly did he use his
-imagination.</p>
+imagination.
 
-<p>Yet Henry Moore has indisputably his place among the masters because his
+Yet Henry Moore has indisputably his place among the masters because his
 art, though not profoundly imaginative, was as able in achievement as it
 was accurate in observation. Moreover, he was acutely responsive to the
-senti<span class="pagenum"><a name="page_16" id="page_16">{16}</a></span>ment of nature, and interpreted her in her many moods with
+sentiment of nature, and interpreted her in her many moods with
 exquisite discretion. Frank and straightforward as his work always was,
 it never lacked the direction of a sympathetic mind; its strength was
 controlled by a singularly correct sense of artistic propriety and was
@@ -807,9 +702,9 @@ never allowed to degenerate into mere display of executive cleverness.
 Certainly Henry Moore was a fine craftsman, and was not hampered by
 technical difficulties in the practice of his art; indeed, one of the
 most salient characteristics of his pictures, as we see them to-day, is
-the confidence of the handling by which they are distinguished.</p>
+the confidence of the handling by which they are distinguished.
 
-<p>This confidence, this directness of method, was the outcome of a not
+This confidence, this directness of method, was the outcome of a not
 less confident understanding of the material with which he was
 accustomed to deal. The things he knew were to him matters of such
 complete knowledge that he was able to concentrate himself entirely upon
@@ -824,9 +719,9 @@ would be turned into a gloriously fanciful abstraction was outside the
 range of his personality. So he kept to the path which it was right that
 he should tread, and made no excursions into strange places in the
 domain of art, proving himself thereby a master of himself as well as of
-his art.</p>
+his art.
 
-<p>We have every reason to be grateful to him for his solid and
+We have every reason to be grateful to him for his solid and
 well-balanced common sense. Henry Moore as an imitator of Turner,
 following in the wake of a leader whom he could never overtake, would
 have been a wasted force in art. Henry Moore as a painter true to his
@@ -839,32 +734,32 @@ as Turner possessed is by its very vastness incomprehensible to the
 ordinary man; but knowledge like that which Henry Moore gathered is
 possible to other artists, though to few of them is given his capacity
 to express it, and to fewer still his sureness of touch and his command
-of executive method.</p>
+of executive method.
 
-<p>What is particularly to be learned from Henry Moore’s pictures is the
+What is particularly to be learned from Henry Moore’s pictures is the
 wide variety of matters which have to be studied by the men who aspire
 to paint the sea with a sufficient measure of artistic fitness. There
-are, of course, many ways of representing the sea pictorially&mdash;as a
+are, of course, many ways of representing the sea pictorially--as a
 background or setting to some nautical incident; as an accessory in a
 scene which has humanity for its main interest; as a generalized scheme
 of colour or tone; as a decorative motive with conventionalized forms;
 or as a poetically indefinite fantasy in which nearly everything is left
 to the imagination of the beholder. But the most scholarly and serious
-way&mdash;Henry Moore’s way&mdash;is to analyse and dissect; to account for every
+way--Henry Moore’s way--is to analyse and dissect; to account for every
 variation in form and every changing gleam of colour; to find the
 reasons for each of the many kinds of wave movement; to learn the
 connexion between certain conditions of the weather and certain states
 of the sea; to know how to produce a sea picture which will be logical
 throughout and without contradictions of atmospheric effect which are
 calculated to excite the protests of the marine expert who knows his
-subject and is not inclined to<span class="pagenum"><a name="page_17" id="page_17">{17}</a></span> take artistic licence into
+subject and is not inclined to take artistic licence into
 consideration. Henry Moore spared himself none of these exhaustive
 preparations and had the technical skill to make the outcome of them
 wholly attractive in artistic quality; that is why he ranks as a master
 at whose feet it is good for the would-be sea painter to sit in all
-humility.</p>
+humility.
 
-<p>If a series of his pictures is examined it will be seen at once that in
+If a series of his pictures is examined it will be seen at once that in
 each one some special problem is dealt with and some definite phase of
 the sea is taken as the motive. Unthinking people are apt to say that
 sea paintings are monotonous because they lack incident and variety of
@@ -878,11 +773,11 @@ frequently afloat and always trying to enlarge his experience of his
 subject. He had, too, the gift of very rapid technical expression which
 enabled him to set down what he saw while the impression was vividly in
 his mind, so that his first clear conviction was not modified or
-obscured by mechanical causes&mdash;by that prolongation of effort which
+obscured by mechanical causes--by that prolongation of effort which
 leads to an ill-assorted mixing of ideas and an indecisive manner of
-statement.</p>
+statement.
 
-<p>This combination of instantaneous apprehension and unhesitating
+This combination of instantaneous apprehension and unhesitating
 expression is, indeed, a necessity for the artist who wishes to avoid a
 merely conventional rendering of the sea and who is anxious to suggest
 properly its really infinite variety. There is so much that must be done
@@ -902,9 +797,9 @@ and laborious practice; or, being less particular, he builds up a pretty
 convention which will help him to turn out superficially attractive
 things that will please a none too critical public. But in neither way
 is the great sea painter made, the painter who can tell the story of the
-sea and convey to us its sentiment and its character.</p>
+sea and convey to us its sentiment and its character.
 
-<p>What makes the problems of marine painting so complex is, first of all,
+What makes the problems of marine painting so complex is, first of all,
 the fact that the sea is never in absolute repose, and therefore its
 surface forms are constantly undergoing some degree of change. Another
 difficulty is that the sea-water seems to vary in composition and
@@ -917,11 +812,11 @@ of sunlight or in response to the variations in atmospheric effect; and
 as it is a moving body it appears to be subject to no laws of
 construction and to have no sort of method in its restlessness. Most
 people, indeed, would hold that the cynical comment on womankind,
-“Toujours femme varie, souvent elle est<span class="pagenum"><a name="page_18" id="page_18">{18}</a></span> folle,” could be applied with
+“Toujours femme varie, souvent elle est folle,” could be applied with
 particular appropriateness to the sea, so feminine is it in its charming
-irresponsibility.</p>
+irresponsibility.
 
-<p>Yet the student of the sea can, if he sets to work in the right way,
+Yet the student of the sea can, if he sets to work in the right way,
 discover the sources of its irresponsibility and the reasons for its
 lapses into insanity. He can dissect its forms and learn its anatomical
 construction, and he can find out what regulates and determines its
@@ -935,9 +830,9 @@ his disposal he would be able, too, to paint pictures which would show
 the sea as it is and as it can be, not as an erratic and unaccountable
 phenomenon acting contrary to all natural laws, which is the view given
 of it by the artists who are incautious enough to paint it without
-having learned its ways.</p>
+having learned its ways.
 
-<p>For instance, the painter properly equipped would make the right
+For instance, the painter properly equipped would make the right
 distinction, both in colour and wave form, between the deep sea and that
 in shallow places; between the transparency of waves breaking on a rocky
 coast and those on a sandy beach; between the wave action in a tidal
@@ -949,9 +844,9 @@ by the careless observer; and they are typical of a host of others which
 are not less likely to become pitfalls for the unwary. Neglect of them
 leads to slovenly and unsatisfactory production and to a kind of work
 that may be cheaply effective but that has actually no justification for
-existence.</p>
+existence.
 
-<p>One mistake very often made by men who have not carried their studies
+One mistake very often made by men who have not carried their studies
 far enough is to miss the necessary connexion between the state of the
 sea and the accompanying condition of the atmosphere; another is to
 paint in a sea picture a sky that is in wrong relation to the wave
@@ -966,9 +861,9 @@ lucky chance the two sketches happened to have been done under similar
 weather conditions the picture would be no more true to nature than the
 laboured effort of the “art” photographer who prints his sky from one
 negative and his landscape from another; or who grafts a studio-lighted
-figure on to a background photographed out of doors.</p>
+figure on to a background photographed out of doors.
 
-<p>The sea painter must, for the credit of art, keep clear of such silly
+The sea painter must, for the credit of art, keep clear of such silly
 tricks and mechanical devices. He must be logical both in his
 observations and in the use he makes of them, and he must be consistent
 in his statement of the facts before him. A picture in which the sea
@@ -976,7 +871,7 @@ suggests half a gale while the sky is one which would be seen only in a
 dead calm is an obvious absurdity, and it would be not less ridiculous
 to paint the full colours of sunlight in an atmosphere of mist and
 driving rain; yet these things are done by artists from whom more regard
-for truth is to be expected. Lapses of this sort cannot be<span class="pagenum"><a name="page_19" id="page_19">{19}</a></span> forgiven;
+for truth is to be expected. Lapses of this sort cannot be forgiven;
 they imply a shirking of responsibility that is beyond excuse, and a
 failure to grasp the first principles of nature study. They would never
 occur if the men who paint the sea would regard it as a living reality
@@ -987,11 +882,11 @@ There is a reason for everything it does and there is a way of
 accounting for every aspect it assumes, but the reason has to be sought
 for, and the way to necessary knowledge must be pursued with painstaking
 effort. There is no place in marine painting for the man who wants to
-take things easily.</p>
+take things easily.
 
-<p>But any one who is interested in executive problems which demand
+But any one who is interested in executive problems which demand
 concentrated attention and sustained investigation will find plenty to
-tax his fullest energies&mdash;problems of drawing, of colour and tone
+tax his fullest energies--problems of drawing, of colour and tone
 management, of imitative suggestion, and of technical application. As an
 example of a complex motive which would present a series of difficulties
 a picture might be imagined of the sea washing in among rocks, some of
@@ -1011,9 +906,9 @@ alter the character of the subject. The painter must perceive that this
 problem has many sides, and that each one must receive exactly its right
 amount of consideration if the pictorial solution is to be correct; if
 he has to make a compromise with reality the most subtle judgment will
-be required of him to create an illusion that will look like truth.</p>
+be required of him to create an illusion that will look like truth.
 
-<p>To multiply such examples would be easy, for there is no phase of sea
+To multiply such examples would be easy, for there is no phase of sea
 painting in which difficulties do not abound. It is difficult to paint a
 breaking wave, to preserve its architectural quality of design and its
 appearance of massive strength, and yet to show that it is a moving and
@@ -1031,10 +926,10 @@ and has built his achievement on a foundation of laboriously acquired
 knowledge. Probably that is why there have been comparatively few great
 sea painters; it is certainly a reason why the few who can be accounted
 great should be regarded as masters of the highest rank with places of
-distinction in the history of art.</p>
+distinction in the history of art.
 
-<p>Next in importance to the study of the sea itself comes the acquisition
-of a<span class="pagenum"><a name="page_20" id="page_20">{20}</a></span> capacity to paint shipping, the two do not necessarily go
+Next in importance to the study of the sea itself comes the acquisition
+of a capacity to paint shipping, the two do not necessarily go
 together. There have been many capable painters of the sea who could not
 draw a ship and did not know how to set it on the water; and there have
 been many men with an accurate technical knowledge of shipping whose
@@ -1052,9 +947,9 @@ total of fact and helps to make the character intelligible, and to slur
 over these details is a fatal mistake. A ship treated conventionally and
 without personal insight is as uninspiring pictorially as a portrait
 which has missed all the little human characteristics which made the
-sitter interesting.</p>
+sitter interesting.
 
-<p>The painter of shipping has, too, a very wide field to cover. He has to
+The painter of shipping has, too, a very wide field to cover. He has to
 range from the yacht to the warship, from the liner to the rusty,
 weather-beaten tramp; he has to show how the lively movement of the
 sailing ship differs from the steady, methodical progression of the
@@ -1068,9 +963,9 @@ seeks to tell. The introduction of shipping into a painting of the sea
 is usually to increase the dramatic strength of the subject, but if
 through technical inefficiency the added incident does not carry
 conviction or explain itself properly the point of the drama is obscured
-rather than accentuated.</p>
+rather than accentuated.
 
-<p>Unfortunately it is rather too easy to produce instances of the wrong
+Unfortunately it is rather too easy to produce instances of the wrong
 handling of ships in sea pictures, which otherwise are quite acceptable,
 and of imperfect understanding of the action of vessels afloat. Some of
 the earlier masters who had studied the sea and knew its ways well made
@@ -1085,15 +980,15 @@ ignorant of the intricacies of rigging and of the set of sails, and
 occasionally they seemed to credit a ship with an uncanny power of
 progressing at full speed in the teeth of a stiff breeze. All this
 resulted from inadequate study of technicalities that a seafaring man
-would treat as a matter of course&mdash;from insufficient acquaintance with
+would treat as a matter of course--from insufficient acquaintance with
 things that, after all, scarcely came within the scope of a landsman’s
-experience.</p>
+experience.
 
-<p>But the present-day painter is expected to be more precise; and if he
+But the present-day painter is expected to be more precise; and if he
 does not fulfil this expectation he will find that there are plenty of
 people who are ready and willing to call him to account. He has to face
 a more critical generation than his predecessors knew, a generation
-which travels more and has much<span class="pagenum"><a name="page_21" id="page_21">{21}</a></span> wider opportunities of acquiring
+which travels more and has much wider opportunities of acquiring
 knowledge of many subjects, and he has to reckon with a familiarity with
 marine details that has become an eminently British characteristic.
 Picturesque improbabilities would not be left unquestioned now; there
@@ -1104,9 +999,9 @@ is not unreasonable to require from the painter who puts a ship into his
 picture evidence that he knows a fair amount about that ship’s
 construction and how it should behave in the situation he assigns to it.
 Even a piece of imaginative fantasy is none the worse for being based
-judiciously on solid fact.</p>
+judiciously on solid fact.
 
-<p>Beside the purely marine painting, the picture that is concerned solely
+Beside the purely marine painting, the picture that is concerned solely
 with the sea and ships that sail on it, there is a place for the coast
 subject. It is true that the coast scene is, more often than not, only a
 landscape into which the sea is introduced as a subsidiary interest, but
@@ -1125,9 +1020,9 @@ driving mists and slow-moving banks of fog which throw a veil of mystery
 over the landscape and give a new aspect to even the most familiar
 objects. The scent of the sea is in the air, the sound of its waves is
 unceasing, its influence is all about; the coast is, indeed, but the
-subject of the sea and owes to it allegiance.</p>
+subject of the sea and owes to it allegiance.
 
-<p>It is in this spirit, unquestionably, that many artists have painted the
+It is in this spirit, unquestionably, that many artists have painted the
 coast, with a sense of the dominating power of the sea and a conscious
 acknowledgement of its influence. They have appreciated the dramatic
 value of the persistent struggle between the sea and the land, a
@@ -1143,9 +1038,9 @@ its attack, will swallow up what it has already half destroyed. The note
 of tragedy is always present, there is always a suggestion that the sea
 is merely waiting its opportunity and that when the time comes it will
 rend and overwhelm and assert its ruthlessness without mercy or
-restraint.</p>
+restraint.
 
-<p>The same kind of sentiment marks the picture of the harbour subject in
+The same kind of sentiment marks the picture of the harbour subject in
 which man’s conflict with the sea is illustrated. Humanity is
 perpetually at war with the forces of nature, and is always seeking to
 keep them in check, with, at best, only partial success. Incessant
@@ -1153,12 +1048,12 @@ watchfulness is necessary, constant effort to repair what is as
 constantly wrecked and overthrown, unwearying patience and unceasing
 toil. Often man sees something he has done blotted out utterly by
 nature’s act, and he has to start again and build up anew from the very
-begin<span class="pagenum"><a name="page_22" id="page_22">{22}</a></span>ning, knowing as he builds that he is defying a power stronger
+beginning, knowing as he builds that he is defying a power stronger
 than himself, more patient than he is and more serenely confident of
 ultimate success. Yet he goes on with his work, patching, renewing,
-rebuilding, and fighting stubbornly every step forward or back.</p>
+rebuilding, and fighting stubbornly every step forward or back.
 
-<p>That is why there is an element of romance in the picture which has for
+That is why there is an element of romance in the picture which has for
 its motive something that men have constructed to protect themselves
 against the inroads of the sea, some piece of work that suggests the
 shifts and contrivances used to secure a measure of shelter from the
@@ -1170,9 +1065,9 @@ a story, too, with an appeal because it shows a phase of human endurance
 which deserves sympathy and respect, sympathy for the difficulties
 encountered, and respect for the way in which they have been overcome;
 and it has its full measure of picturesqueness and artistic fitness by
-which its claim to serious treatment is amply justified.</p>
+which its claim to serious treatment is amply justified.
 
-<p>Indeed, the paintings of the fringe and surrounding of the sea which
+Indeed, the paintings of the fringe and surrounding of the sea which
 have been produced by British artists uphold worthily the best
 traditions of our school; they include much that proves indisputably the
 powers of our greater masters, and certainly they are more numerous than
@@ -1193,9 +1088,9 @@ sentiment is more apparent. It is not given to many people, artists or
 laymen, to feel the profound mystery and the dramatic grandeur of the
 open sea; there are plenty, however, who can sense the appeal of the
 broken and battered coast and find romance in the harbours and tidal
-inlets.</p>
+inlets.
 
-<p>From a purely technical standpoint the coast picture is also more
+From a purely technical standpoint the coast picture is also more
 convenient than the painting of the open sea; it is easier to compose
 satisfactorily and to arrange in proper order. As a matter of
 space-filling and pattern-making it is much less difficult to construct
@@ -1204,19 +1099,19 @@ contrasting with the horizontals of the sea than it is when the picture
 is divided into sea and sky with nothing to break the severe simplicity
 of the composition. This technicality has evidently perplexed many sea
 painters, and has not infrequently led them into rather strained devices
-to obtain variety&mdash;into exaggeration of the tones of the sky and
+to obtain variety--into exaggeration of the tones of the sky and
 over-accentuation of cloud forms, or into the introduction of shipping
 where the subject was already too complicated to require an added
 interest. Such evasions of a difficulty by artificial means are,
 however, not to be defended, and the artist who feels that the purely
 marine picture is too great a tax upon his powers had better not stray
 from the coast where there is plenty of more amenable pictorial material
-at his disposal. He is a wise man who recognizes his own limi<span class="pagenum"><a name="page_23" id="page_23">{23}</a></span>tations
+at his disposal. He is a wise man who recognizes his own limitations
 and does not invite trouble by trying to conceal his deficiencies in a
-branch of practice for which he is unsuited.</p>
+branch of practice for which he is unsuited.
 
-<p>There is another type of art which can be brought legitimately under the
-heading of marine painting&mdash;the representation of the life of the people
+There is another type of art which can be brought legitimately under the
+heading of marine painting--the representation of the life of the people
 who have dealings with the sea and obtain from it their means of
 existence. The sailors, the fisher-folk, the many who work by and on the
 sea have their part in its story and provide the artist with ample
@@ -1228,28 +1123,28 @@ there is always the spice of adventure and there are many moments of
 danger, many tragic happenings, and many incidents which test severely
 both mind and body. But all this develops character and sets its stamp
 upon the seaman’s personality, marking with signs that cannot be
-mistaken his place in the community.</p>
+mistaken his place in the community.
 
-<p>Of the figure pictures by British artists which are popular to-day, and
+Of the figure pictures by British artists which are popular to-day, and
 for which continued appreciation can safely be prophesied, a large
-number have for subject something that refers to the sea. <i>The
-North-West Passage</i>, by Sir John Millais, is, for instance, an inspiring
+number have for subject something that refers to the sea. _The
+North-West Passage_, by Sir John Millais, is, for instance, an inspiring
 reminder in its spirit and sentiment of a series of sea adventures which
 must for ever stand to the credit of the British race; and Bramley’s
-<i>Hopeless Dawn</i> tells eloquently the story of a tragedy only too sadly
+_Hopeless Dawn_ tells eloquently the story of a tragedy only too sadly
 common where men seek a precarious livelihood on the treacherous sea.
-Other pictures like the Hon. John Collier’s <i>Last Voyage of Henry
-Hudson</i>, and H. S. Tuke’s <i>All Hands to the Pumps</i>, give us full
+Other pictures like the Hon. John Collier’s _Last Voyage of Henry
+Hudson_, and H. S. Tuke’s _All Hands to the Pumps_, give us full
 opportunity to judge the nature of the dangers to which seamen are
-exposed; while others again, like Napier Hemy’s <i>Pilchards</i>, and Colin
-Hunter’s <i>Their Only Harvest</i>, show us what kind of work occupies the
+exposed; while others again, like Napier Hemy’s _Pilchards_, and Colin
+Hunter’s _Their Only Harvest_, show us what kind of work occupies the
 fisher-folk and the other coast dwellers whose necessities the sea
-supplies. Another aspect of the subject is seen in Tuke’s <i>August Blue</i>,
-and C. W. Wyllie’s <i>Digging for Bait</i>, which suggest those pleasanter
+supplies. Another aspect of the subject is seen in Tuke’s _August Blue_,
+and C. W. Wyllie’s _Digging for Bait_, which suggest those pleasanter
 moments when life by the sea has its genial and enjoyable side and the
-stress and turmoil of the winter storms are for a while forgotten.</p>
+stress and turmoil of the winter storms are for a while forgotten.
 
-<p>These particular pictures are quoted because, being all in a national
+These particular pictures are quoted because, being all in a national
 collection, they are accessible to every one and are permanently
 available to illustrate the varying relation of humanity with the sea.
 They represent a class of production within which is comprehended a wide
@@ -1268,7 +1163,7 @@ life provides for the people who lead it. During recent years, indeed,
 many painters have established themselves by the sea with the express
 intention of seeking there material for important works, and many others
 have paid long visits to our coasts for the sake of studying at close
-quarters the subjects which are so plentifully available; and these<span class="pagenum"><a name="page_24" id="page_24">{24}</a></span> men
+quarters the subjects which are so plentifully available; and these men
 have not found it necessary to depart from strict reality to give
 interest and convincing strength to their pictures. By being true to
 fact, by recording faithfully what they saw around them, they have added
@@ -1283,9 +1178,9 @@ sea life is so abounding in action, and because the people who lead it
 are of so many types and so unstereotyped in their ways, that to the
 painter who works by the sea a constant succession of new motives is
 presented, and motives, too, which by their picturesqueness and human
-interest satisfy completely the artistic demand.</p>
+interest satisfy completely the artistic demand.
 
-<p>Clearly, in marine painting there is no lack of opportunities. In its
+Clearly, in marine painting there is no lack of opportunities. In its
 various branches it offers to the artist room for the most divergent
 activities and it allows him a spacious field for the exercise of his
 powers. If he aspires to conquer difficulties they are there in plenty,
@@ -1306,11 +1201,15 @@ resistance, seeks by compromise and convention to gloss over his want of
 knowledge and tries by superficial cleverness of handling to divert
 attention from the incompleteness of his analysis. An artist of this
 sort had better let the sea alone and choose something simpler and less
-abounding with pitfalls for his inexperience.</p>
+abounding with pitfalls for his inexperience.
 
-<h2><a name="NOTES_ON_THE_ILLUSTRATIONS" id="NOTES_ON_THE_ILLUSTRATIONS"></a>NOTES ON THE ILLUSTRATIONS</h2>
 
-<p><span class="letra">T</span>HIS series of reproductions of paintings by artists who have given
+
+
+NOTES ON THE ILLUSTRATIONS
+
+
+This series of reproductions of paintings by artists who have given
 particular attention to marine painting in its various aspects has been
 made as comprehensive as possible so that it may illustrate adequately a
 subject capable of the widest application. Examples belonging to
@@ -1322,29 +1221,29 @@ fact, the realistic study, the decorative interpretation, and the frank
 expression of the modern idea are all presented and are available for
 intelligent comparison. The capabilities, too, of marine painting are
 made clear, and the extent of opportunity it affords to the serious
-student of art. There<span class="pagenum"><a name="page_25" id="page_25">{25}</a></span> are illustrations which have a specially
+student of art. There are illustrations which have a specially
 instructive significance because of the technical knowledge of the
 subject displayed in them; there are others which are interesting on
 account of their imaginative quality; and there are others again which
 reveal the inspiration of the sea life and reflect the spirit by which
 it is guided. All these have their part in the record of British marine
 painting, and are both valuable historically and worthy of consideration
-for artistic reasons.</p>
+for artistic reasons.
 
-<p>Rightly, an early place in this record must be assigned to Charles
+Rightly, an early place in this record must be assigned to Charles
 Brooking, because in his works can be seen for the first time the clear
 intention to study marine subjects with a perception of their inherent
 characteristics. Brooking’s intimate knowledge of shipping, acquired
 during his early days at Deptford Dockyard, is plainly shown in such a
-picture as <i>The Calm</i> (p. 35), which has an attractive truth and
+picture as _The Calm_ (p. 35), which has an attractive truth and
 precision of statement. It is a matter for much regret that his early
 death should have cut short a career which was so full of promise, and
 in which he accomplished so much that deserves to be remembered; but
 honour is due to him as the painter who gave to our school of marine
 painting its foundation of accurate observation and careful regard for
-the actualities of the subject.</p>
+the actualities of the subject.
 
-<p>Other men carried on ably the tradition he had established, and in a
+Other men carried on ably the tradition he had established, and in a
 comparatively short time there grew up a by no means inconsiderable
 group of painters who took an effective interest in the pictorial
 material with which the sea provided them. Within half a century of his
@@ -1357,8 +1256,8 @@ achievements rank among the best by which our school is distinguished.
 To the company of these masters certainly belongs George Morland, the
 erratic genius who, ranging over a wide field of subjects, found that
 the sea was often one of the most helpful sources of his inspiration.
-His coast scenes&mdash;of which the <i>Fishermen Hauling in a Boat</i> (p. 37) is
-a good example&mdash;have a characteristic measure of strenuous vitality and
+His coast scenes--of which the _Fishermen Hauling in a Boat_ (p. 37) is
+a good example--have a characteristic measure of strenuous vitality and
 are painted with all the sureness of touch that marked his handling of
 the rustic motives which occupied so much of his attention. Morland,
 however, did not paint marine pictures so frequently as his
@@ -1367,108 +1266,108 @@ lived for some years at Folkestone. His capacity can scarcely be
 questioned. The picture reproduced (p. 38) has a very modern freshness
 of manner and shows exceptional knowledge of wave movement and
 atmospheric subtleties, and though there is in it something of the
-convention of the period, it certainly conveys the sentiment of nature.</p>
+convention of the period, it certainly conveys the sentiment of nature.
 
-<p>Another master who made many digressions into sea painting was
+Another master who made many digressions into sea painting was
 Constable; a number of sea and coast pictures are included among his
-more memorable performances. His <i>Chesil Beach</i> (p. 39) has the better
+more memorable performances. His _Chesil Beach_ (p. 39) has the better
 qualities of his art, its strength and sincerity, its robust directness,
 and its sense of rightly estimated reality. Without being in any way dry
 or dull it is singularly faithful in its statement of the facts of the
 subject and in its adherence to nature’s authority; and it bears
-decisively the stamp of the artist’s personality.</p>
+decisively the stamp of the artist’s personality.
 
-<p>Even more personal both in point of view and in manner of interpretation
+Even more personal both in point of view and in manner of interpretation
 are the pictures by Turner, that greatest of all painters of the sea. No
 one but Turner could have attained such a height of dramatic power as is
-reached in<span class="pagenum"><a name="page_26" id="page_26">{26}</a></span> <i>Lowestoft</i> (p. 45), and <i>The Shipwreck</i> (p. 41), in which
+reached in _Lowestoft_ (p. 45), and _The Shipwreck_ (p. 41), in which
 the majesty and the tragedy of the sea are expressed with overwhelming
 strength. Only a supreme master could have kept conception and execution
 in such perfect relation, or could be so vehement in conviction without
 lapsing into bombast. But Turner was a master without a peer, and in
-these two pictures&mdash;and the extraordinarily suggestive and mysterious
-<i>Farne Island</i> (p. 44)&mdash;he is seen to rare advantage. Yet he was not
+these two pictures--and the extraordinarily suggestive and mysterious
+_Farne Island_ (p. 44)--he is seen to rare advantage. Yet he was not
 less evidently a master when he chose to deal with less ambitious
-material, when he painted subjects like the <i>Yacht Racing in the Solent</i>
-(p. 43), and <i>The Prince of Orange Landing at Torbay</i> (p. 42), in which
+material, when he painted subjects like the _Yacht Racing in the Solent_
+(p. 43), and _The Prince of Orange Landing at Torbay_ (p. 42), in which
 no tragic note was needed, and no greater problem was presented than the
 expression of the breezy freshness of a restless sea. Always, the
 acuteness of his vision, the depth of his understanding, and the
 consummate certainty of his method can be realized, whatever may have
-been his mood or his intention.</p>
+been his mood or his intention.
 
-<p>Beside Turner, John Thomson of Duddingston can be assigned but a minor
+Beside Turner, John Thomson of Duddingston can be assigned but a minor
 place; yet, amateur though he was, he cannot be passed over as unworthy
 to be reckoned among the more accomplished of the earlier sea painters.
 Minister of a church in Scotland, he was able to practise his art only
 in the intervals of his clerical duties, but as can be judged from his
-<i>Fast Castle</i> (p. 47) he had real ability and much command of technical
+_Fast Castle_ (p. 47) he had real ability and much command of technical
 processes. He belongs to a period of great importance in British art, a
 period which produced not only Turner and Constable, but other masters
 of high rank, two of whom, Cotman and David Cox, painted marine pictures
 frequently and treated them with delightful sympathy. Cotman’s broad,
-dignified method is well seen in <i>A Galiot in a Storm</i> (p. 48), a
+dignified method is well seen in _A Galiot in a Storm_ (p. 48), a
 composition finely designed and convincing in its large simplicity; and
 David Cox’s exquisite perception of beauties of atmospheric effect is
-rarely better evidenced than in his delicate and luminous <i>Calais Pier</i>
+rarely better evidenced than in his delicate and luminous _Calais Pier_
 (p. 49), a study of sea and sky which can be unreservedly praised for
 its sensitiveness and truth. It is as rightly seen as it is attractively
-painted. There is much less freedom and spontaneity in Pyne’s <i>Totland
-Bay</i> (p. 51), and yet this picture has a scholarly quality that entitles
+painted. There is much less freedom and spontaneity in Pyne’s _Totland
+Bay_ (p. 51), and yet this picture has a scholarly quality that entitles
 it to respect, though it is a little too formal and conscious. But at
 the beginning of the nineteenth century there was a fashion for elegant
 formality, and Pyne was, perhaps, induced to follow this fashion by his
 study of Italian scenery. As a sea painter he can scarcely be compared
 with George Chambers and Clarkson Stanfield, who were of the same date,
 and both of whom had much professional experience of the sea before they
-became artists. Chambers drew shipping with admirable accuracy&mdash;there is
-ample proof of this in his picture, <i>Off Portsmouth</i> (p. 52)&mdash;and knew
+became artists. Chambers drew shipping with admirable accuracy--there is
+ample proof of this in his picture, _Off Portsmouth_ (p. 52)--and knew
 the ways of the sea intimately; Stanfield was also an excellent
 draughtsman, but on the whole was more artificial than Chambers. Both
 men were for some while successful scene painters, and in Stanfield’s
 work particularly the influence of the theatre is apparent; there is an
-obvious scenic quality in such pictures as the <i>Entrance to the Zuyder
-Zee</i> (p. 54) and <i>The Port of La Rochelle</i> (p. 53); and his <i>Coast
-Scene</i> (p. 55) is planned and composed with the scene-painter’s feeling
+obvious scenic quality in such pictures as the _Entrance to the Zuyder
+Zee_ (p. 54) and _The Port of La Rochelle_ (p. 53); and his _Coast
+Scene_ (p. 55) is planned and composed with the scene-painter’s feeling
 for construction and distribution of detail. But, despite the theatrical
 atmosphere of his art, Stanfield’s achievements are not to be despised,
 because the foundation of them was sound and the knowledge he displayed
-in them was acquired at first hand.</p>
+in them was acquired at first hand.
 
-<p>Dyce’s <i>Pegwell Bay</i> (p. 57) is interesting for two reasons, as a
+Dyce’s _Pegwell Bay_ (p. 57) is interesting for two reasons, as a
 digression by a successful figure painter into open-air work, and as an
 illustration of the influence exercised by the Pre-Raphaelite movement
-upon the painters of the time.<span class="pagenum"><a name="page_27" id="page_27">{27}</a></span> It is an extraordinary piece of precise
+upon the painters of the time. It is an extraordinary piece of precise
 statement, photographic in its accuracy, and is painted with a careful
 regard for reality that deserves recognition. Indeed, its simple honesty
-makes it of more account than such a picture as Cooke’s <i>Dutch Boats in
-a Calm</i> (p. 58), which, capable though it is, has more than a suspicion
-of artificiality; or than E. T. Crawford’s <i>Closehauled, Crossing the
-Bar</i> (p. 59), in which the spirited treatment of the sea is to some
+makes it of more account than such a picture as Cooke’s _Dutch Boats in
+a Calm_ (p. 58), which, capable though it is, has more than a suspicion
+of artificiality; or than E. T. Crawford’s _Closehauled, Crossing the
+Bar_ (p. 59), in which the spirited treatment of the sea is to some
 extent discounted by a certain clumsiness in the drawing of the
 sailing-boats and by the somewhat mechanical manner in which they are
 used to help out the composition. There is artificiality, too, in the
-design of Müller’s <i>Dredging on the Medway</i> (p. 60), but it is more
+design of Müller’s _Dredging on the Medway_ (p. 60), but it is more
 cleverly disguised, and the handling is more accomplished. All three of
 these men, however, contributed something to the sequence of paintings
 which stands to the credit of the British school, and all were serious
-observers of the sea.</p>
+observers of the sea.
 
-<p>So, too, was Copley Fielding, though other subject-matter than the sea
+So, too, was Copley Fielding, though other subject-matter than the sea
 engaged much of his attention. But he spent a good deal of his time on
 the coast and used his opportunities there with considerable discretion.
 As a result his sea paintings have a sympathetic quality that is
 undeniably persuasive, and they derive an additional charm from their
 dexterity of brushwork and from their pleasant management of colour and
-tone. The <i>Coast Scene</i> (p. 61) represents him well; it is an eminently
+tone. The _Coast Scene_ (p. 61) represents him well; it is an eminently
 skilful technical exercise, and it conveys correctly an impression of
 gathering storm and of the force of a rising wind. The suggestion, also,
 of cold, gleaming light when the sky is partly veiled by dark clouds is
-sufficiently true and is made with due restraint&mdash;without that
+sufficiently true and is made with due restraint--without that
 over-accentuation of tone contrasts which is so apt to destroy breadth
-and unity of effect.</p>
+and unity of effect.
 
-<p>From Copley Fielding to Edwin Hayes is a wide step&mdash;a jump from the
+From Copley Fielding to Edwin Hayes is a wide step--a jump from the
 methods of the past to those of the present day. Yet in actual time the
 two men were not so widely separated, for Hayes was born some while
 before Fielding died, and counted several of the earlier British masters
@@ -1480,37 +1379,37 @@ respects, less narrow than his fellows. But the formula influenced him
 as it did nearly all the other men of that date, and it gave a sort of
 set pattern to the paintings even of those artists who had the sincerest
 possible desire to be faithful to nature and to study her seriously and
-persistently.</p>
+persistently.
 
-<p>The effect of this formula was to regulate the composition and to
+The effect of this formula was to regulate the composition and to
 prescribe the introduction of shipping in certain specified positions so
 as to conform to an accepted pictorial convention. To its dominance is
 due the general similarity which can be perceived between the works of
 John Wilson, Chambers, Crawford, and Müller, here illustrated, and which
 could be followed out in many other pictures by the lesser painters of
-the time&mdash;a similarity which was neither accidental nor unconscious, but
+the time--a similarity which was neither accidental nor unconscious, but
 directly induced by adherence to what were held to be the correct
 principles of picture designing. Moreover, there seems to have been a
 belief then that a painting of the sea must have some added interest to
 assure it of popularity, for a sea without shipping prominently placed
 upon it was hardly ever attempted; an incident was almost always
-introduced or a story suggested.</p>
+introduced or a story suggested.
 
-<p>When Edwin Hayes began his career the earlier tradition was losing its
-autho<span class="pagenum"><a name="page_28" id="page_28">{28}</a></span>rity and was being replaced by a less limited conception of the
+When Edwin Hayes began his career the earlier tradition was losing its
+authority and was being replaced by a less limited conception of the
 sea-painter’s mission. To some extent he came under it in his youth, but
 he was naturally responsive to new ideas and kept pace with the more
-modern developments. Anyhow, in his <i>Sunset at Sea</i> (p. 63) there is no
+modern developments. Anyhow, in his _Sunset at Sea_ (p. 63) there is no
 hint of the old convention, and there is no trace of the belief that an
 added interest was required to make a sea picture attractive. He was
 content to give faithfully his impression of the sea as it appeared
 before him, to tell no story save nature’s own, and to take for his
 incident the gleam of sunlight upon tossing waves stirred into movement
-by the wind&mdash;a poor subject, perhaps, according to the old standards,
+by the wind--a poor subject, perhaps, according to the old standards,
 but one which to-day appeals to us as admirably satisfying and
-essentially complete.</p>
+essentially complete.
 
-<p>From the middle of the nineteenth century onwards there has been a
+From the middle of the nineteenth century onwards there has been a
 steadily growing tendency to enlarge the scope of marine painting and to
 allow to the men who practise it more and more freedom in the assertion
 of their personal feeling in art matters. That is why so much material
@@ -1520,11 +1419,11 @@ opportunities for the display of their capacities. They can approach it
 from the point of view that suits them best, they can interpret what
 they find there in the way that seems to them most appropriate, and they
 can, if their study is sincere, get most closely into touch with
-nature’s secrets.</p>
+nature’s secrets.
 
-<p>One entirely legitimate point of view is given adequate demonstration in
-the two pictures, <i>The Kyles of Bute</i> by C. Parsons Knight (p. 65), and
-<i>From the Dorsetshire Cliffs</i> by John Brett (p. 67). Both pictures are
+One entirely legitimate point of view is given adequate demonstration in
+the two pictures, _The Kyles of Bute_ by C. Parsons Knight (p. 65), and
+_From the Dorsetshire Cliffs_ by John Brett (p. 67). Both pictures are
 records, plain and uncompromising statements of fact, and in neither of
 them is anything unaccounted for or any detail left for the imagination
 of the spectator to supply. Frankly, the intention of both painters was
@@ -1534,12 +1433,12 @@ undeniably both painters have justified themselves by the thoroughness
 with which they have carried out this intention. Yet to many people so
 much labour to prove the sincerity of the artist would seem to be
 unnecessary and to savour somewhat of pedantry; knowledge so lavishly
-displayed&mdash;and with such scrupulous regard for accuracy&mdash;is not always
+displayed--and with such scrupulous regard for accuracy--is not always
 persuasive. But such pictures have every right to exist, and there is a
-place for them in art.</p>
+place for them in art.
 
-<p>So there is, too, for conceptions of such a totally different type as
-<i>The Wreck</i> by C. E. Holloway (p. 68), and the <i>Marine</i> by Whistler (p.
+So there is, too, for conceptions of such a totally different type as
+_The Wreck_ by C. E. Holloway (p. 68), and the _Marine_ by Whistler (p.
 69). These go to the opposite extreme, eliminating detail, avoiding
 precise and careful explanations, conceding nothing to the unimaginative
 man who can only believe what is made perfectly clear to his limited
@@ -1549,31 +1448,31 @@ controls their apparent carelessness of method can be estimated at its
 proper worth. Holloway’s painting is, in fact, only a rapid note in
 which he has visualized a momentary impression, but visualized it so
 surely that he has been able to make other people see just what he
-himself saw in the subject. Whistler’s <i>Marine</i> is an impression, too, a
+himself saw in the subject. Whistler’s _Marine_ is an impression, too, a
 summary of movement and wave action; but it is something more than a
 simple realization of the fundamental things in nature because into the
 treatment of it a decorative intention has been definitely admitted. By
 the painter’s skill the formality of the design has been cleverly
 concealed, and by the spontaneity of his method the deliberate processes
-of his art are kept from being too apparent;<span class="pagenum"><a name="page_29" id="page_29">{29}</a></span> but formality and
+of his art are kept from being too apparent; but formality and
 deliberation have both contributed to the successful evolution of a very
-significant picture.</p>
+significant picture.
 
-<p>Quite a different kind of sentiment pervades Hook’s vigorous canvas,
-<i>The Seaweed Raker</i> (p. 71). He was not concerned with subtleties of
+Quite a different kind of sentiment pervades Hook’s vigorous canvas,
+_The Seaweed Raker_ (p. 71). He was not concerned with subtleties of
 suggestion or with problems of decorative adjustment, but with the
 robust representation of nature’s ruggedness, and there was a simple
 honesty in his virile, forcible work. He understood the sea, and though
 he looked at it in rather a literal way he never made his paintings of
 it commonplace. Partly this was due, no doubt, to the unaffected
 directness of his executive devices and to the frankness of his
-craftsmanship&mdash;he never resorted to any graceful artifices to soften off
-the bare facts of his subjects&mdash;but there came in also the influence of
+craftsmanship--he never resorted to any graceful artifices to soften off
+the bare facts of his subjects--but there came in also the influence of
 a temperament which was by no means insensible to the romance of the sea
 and to the sombre poetry of the seaman’s life. That Hook was one of the
-greatest of British marine painters can fairly be claimed.</p>
+greatest of British marine painters can fairly be claimed.
 
-<p>But greater still was Henry Moore, greater because his insight was even
+But greater still was Henry Moore, greater because his insight was even
 more acute and because, while he equalled Hook in robustness, he used
 his powers with more reserve. He was a finer colourist, a truer judge of
 tone relations, and more sensitive to refinements of atmospheric effect;
@@ -1582,21 +1481,21 @@ painter of the open air, he began to study the sea almost at the outset
 of his career, and for some years alternated between landscapes and
 marine pictures, but eventually devoted himself almost exclusively to
 the branch of practice in which, as he plainly proved, he was without a
-serious rival. The particular charm of his work&mdash;a charm that is very
-apparent in the two examples reproduced&mdash;is in its suggestion of space
+serious rival. The particular charm of his work--a charm that is very
+apparent in the two examples reproduced--is in its suggestion of space
 and wide expansiveness, and of the recession of the surface of the sea
-to the far horizon. From such a picture as <i>A Breezy Day</i>&mdash;which forms a
-frontispiece to this article&mdash;many lessons are to be learned in the
+to the far horizon. From such a picture as _A Breezy Day_--which forms a
+frontispiece to this article--many lessons are to be learned in the
 management of tone values to express distance, and in the treatment of
 clouds not as a background but as an overhanging canopy in true
-perspective; and both this and the <i>Break in the Cloud</i> (p. 72) show
+perspective; and both this and the _Break in the Cloud_ (p. 72) show
 most clearly the certainty with which he could draw the form of
 different kinds of waves and give to them their proper movement. And all
 this he did without appearance of labour and without exaggerated display
 of technical facility, but invariably with the quiet confidence that
-comes from exact and well-tried knowledge.</p>
+comes from exact and well-tried knowledge.
 
-<p>Colin Hunter’s <i>Farewell to Skye</i> (p. 73) seems, somehow, to have about
+Colin Hunter’s _Farewell to Skye_ (p. 73) seems, somehow, to have about
 it a touch of sentimentality and to be lacking in force. Perhaps this
 impression comes partly from the title, but it is encouraged also by the
 sweetness of the composition with its flow of curving lines and its
@@ -1606,18 +1505,18 @@ effect of evening illumination it has much merit. It represents well an
 artist who possessed his full share of the Scottish feeling for romance
 and whose methods were sound, and it can justly claim a place among the
 more popular of modern marine paintings. There is a place, too, for W.
-McTaggart’s <i>Sounding Sea</i> (p. 74), a picture very different in
+McTaggart’s _Sounding Sea_ (p. 74), a picture very different in
 inspiration and technical manner and yet as definitely expressive of the
 Scottish temperament. Like all McTaggart’s works, it arrests attention
 by the strength of its personal conviction and by the characteristic
 method of handling that he has employed, and to this attention it is
-fully entitled.</p>
+fully entitled.
 
-<p>Frank Brangwyn’s <i>In Port</i> (p. 75) has a story to tell, the story of a
+Frank Brangwyn’s _In Port_ (p. 75) has a story to tell, the story of a
 voyage ended and of the safe arrival of a homeward-bound ship. The
-artist has not<span class="pagenum"><a name="page_30" id="page_30">{30}</a></span> embroidered his subject with any touches of fancy; he
+artist has not embroidered his subject with any touches of fancy; he
 has dealt with it as a simple matter of fact and as an everyday incident
-in the concerns of a seaport town&mdash;an incident which excites hardly more
+in the concerns of a seaport town--an incident which excites hardly more
 than momentary interest among the idlers on the quay. Yet by this very
 reticence he seems to give point to his story and to emphasize the
 British attitude towards sea life as something to which the people are
@@ -1632,24 +1531,24 @@ distinguished, but even the painter of distinction is none the worse for
 possessing an expert technical understanding of the material which he
 proposes to depict upon his canvas. In this instance the combination of
 nautical experience and high artistic ability has been productive of
-unusually satisfying results.</p>
+unusually satisfying results.
 
-<p>It is questionable whether to T. B. Hardy has as yet been assigned the
+It is questionable whether to T. B. Hardy has as yet been assigned the
 position among British artists which is due to him on account of the
 merit of his work. A prolific and popular painter he possibly spread his
 energies over too wide a field and fell into the habit of
 over-production. But in his best pictures he reached a very high level
-of accomplishment, and as a sea painter he was especially successful. <i>A
-Change of Wind, Boulogne Harbour</i> (p. 77), which has been chosen to
+of accomplishment, and as a sea painter he was especially successful. _A
+Change of Wind, Boulogne Harbour_ (p. 77), which has been chosen to
 represent him, ranks among the best things of its class, on account of
 its accuracy of observation and its powerful realization, not only of
 the action of the sea, but of the weather conditions, too, by which this
 action was induced. In design the picture is to some degree a reversion
 to an earlier type, but in spirit and manner of execution it is
 essentially a modern effort, and brings a past tradition logically up to
-date.</p>
+date.
 
-<p>Napier Hemy’s <i>Boat Adrift</i> (p. 78) owes none of its inspiration to the
+Napier Hemy’s _Boat Adrift_ (p. 78) owes none of its inspiration to the
 older sea painters, or at all events to none earlier than Hook. There is
 a hint of Hook’s robustness and solid realism, but the character and
 quality of the handling, the constructive sense, and the observation of
@@ -1660,26 +1559,26 @@ as a landsman who limited himself to what he could see from the shore.
 His thoroughness had its full reward, for it is by his marine paintings
 that his reputation as one of our leading artists has been established,
 though in his early days he was a figure painter and made some success
-with landscape as well.</p>
+with landscape as well.
 
-<p>Another instance of a figure-painter’s judicious dealing with the
-subtleties of the sea is to be seen in Sir John Lavery’s <i>Evening&mdash;the
-Coast of Spain from Tangier</i> (p. 79). He has found something here well
+Another instance of a figure-painter’s judicious dealing with the
+subtleties of the sea is to be seen in Sir John Lavery’s _Evening--the
+Coast of Spain from Tangier_ (p. 79). He has found something here well
 worth recording, an effect of warm evening light over still waters which
 ripple gently on a flat beach, a subject full of colour and delicate
 aerial suggestion. He has interpreted it with tenderness and sympathy,
 but without descending into mere prettiness, and without losing the
 strength of the subject. A picture so happily conceived deserves the
-sincerest welcome.</p>
+sincerest welcome.
 
-<p>An entirely different class of work is exemplified in W. L. Wyllie’s
-ambitious composition, <i>Blake’s Three Days Engagement with Van Tromp</i>
+An entirely different class of work is exemplified in W. L. Wyllie’s
+ambitious composition, _Blake’s Three Days Engagement with Van Tromp_
 (p. 81). This is neither a simple piece of nature nor a representation
-of a normal incident in<span class="pagenum"><a name="page_31" id="page_31">{31}</a></span> our modern life, but an imaginative
+of a normal incident in our modern life, but an imaginative
 reconstruction of an historical scene. To build it up a vast amount of
 research and consultation of authorities were needed, to carry it out
 convincingly a very thorough acquaintance with the sea was
-indispensable&mdash;both conditions have been excellently satisfied by the
+indispensable--both conditions have been excellently satisfied by the
 artist. His picture is entirely credible: he makes us believe that he
 has put before us what actually happened, and he treats the whole motive
 with a seamanlike understanding that clears it of all suspicion of
@@ -1688,33 +1587,33 @@ when the sea painters had opportunities to witness such picturesque,
 yard-arm to yard-arm naval actions; the sea-fights of to-day do not lend
 themselves so well to the artist’s purposes. A good deal of the drama
 must inevitably be lost when miles of water intervene between the
-opposing fleets.</p>
+opposing fleets.
 
-<p>A sailor’s acquaintance with the sea gives a particular point to the
-work of Thomas Somerscales. His pictures, <i>Off Valparaiso</i> (p. 82) and
-<i>Before the Gale</i> (p. 83), have an unpretentious reality that can be
+A sailor’s acquaintance with the sea gives a particular point to the
+work of Thomas Somerscales. His pictures, _Off Valparaiso_ (p. 82) and
+_Before the Gale_ (p. 83), have an unpretentious reality that can be
 accepted in perfect good faith. They are distinguished by an unusual
 straightforwardness, and by a simplicity of manner and method that is
 curiously effective; and they tell us, because they are so simple and
 straightforward, more about the sea than we can learn from paintings
-which are much fuller of detail and accessory incident.</p>
+which are much fuller of detail and accessory incident.
 
-<p>R. W. Allan’s <i>Off to the Fishing Grounds</i> (p. 84), and C. W. Simpson’s
-<i>Landing Fish</i> (p. 85), have to do with life in home waters instead of
+R. W. Allan’s _Off to the Fishing Grounds_ (p. 84), and C. W. Simpson’s
+_Landing Fish_ (p. 85), have to do with life in home waters instead of
 the adventuring of ocean-going ships, but they are none the less
 interesting on that account. In the first picture, indeed, the chance of
 working out a very agreeable line composition has been used by the
 artist with the best of judgment, and he has entered thoroughly into the
-spirit of his subject. In the <i>Landing Fish</i>, a good illustration is
+spirit of his subject. In the _Landing Fish_, a good illustration is
 given of the way in which a perfectly literal statement of a scene, for
 which almost any fishing-port would provide a setting, can be made
 artistically important by a painter who looks at it sympathetically and
 who can induce other people to look at it through his eyes. There are
 few occupations carried on so picturesquely as that of the fisherman or
 among surroundings so full of varied pictorial possibilities; and there
-are fewer still which offer so many picture subjects ready-made.</p>
+are fewer still which offer so many picture subjects ready-made.
 
-<p>To turn from works such as these to Herbert Draper’s <i>Flying Fish</i> (p.
+To turn from works such as these to Herbert Draper’s _Flying Fish_ (p.
 87), is to change abruptly from fact to fancy, from a frank rendering of
 things as they are to a fantastic suggestion of something that never
 existed save in the artist’s imagination. But the realities of the deep
@@ -1724,27 +1623,27 @@ fancies of his own. Indeed, this water nymph at play in the element to
 which she belongs appears much more credible than many of the sea
 monsters which have been proved to be actually in existence; and by the
 artist’s skill she is presented as a very pleasing embodiment of the
-spirit of the sea&mdash;sportive, irresponsible, and ruthless too, but
+spirit of the sea--sportive, irresponsible, and ruthless too, but
 beautiful and intensely alive. It is not good for us to be always
 material-minded and matter-of-fact, so we can allow to the mermaid a
 place in art even though we know that she has been classified by science
-as merely a species of sea-cow&mdash;a most unpoetic translation of an
-ancient myth.</p>
+as merely a species of sea-cow--a most unpoetic translation of an
+ancient myth.
 
-<p>There is nothing either mythical or fantastic about H. S. Tuke’s <i>August
-Blue</i> (p. 88); on the contrary it is a purely realistic painting of a
-most ordinary subject&mdash;some boys bathing from a boat on a calm sunlit
-sea. But out of this<span class="pagenum"><a name="page_32" id="page_32">{32}</a></span> quite ordinary material he has built up a picture
+There is nothing either mythical or fantastic about H. S. Tuke’s _August
+Blue_ (p. 88); on the contrary it is a purely realistic painting of a
+most ordinary subject--some boys bathing from a boat on a calm sunlit
+sea. But out of this quite ordinary material he has built up a picture
 with an exceptional degree of dignity, largely felt, and with a kind of
 classic distinction of manner. But there is in it no coldness or want of
 human interest; it is living, animated, and essentially of to-day, and
 wholly right in its fresh, unforced naturalism. Easy, fluent
 draughtsmanship and strength of design help to make it a memorable
-exercise in descriptive painting.</p>
+exercise in descriptive painting.
 
-<p>The next three pictures, Sir David Murray’s <i>The Fiend’s Weather</i> (p.
-89), <i>Where the Somme meets the Sea</i>, by Tom Robertson (p. 90), and
-Moffat Lindner’s <i>The Storm-Cloud, Christchurch Harbour</i> (p. 91),
+The next three pictures, Sir David Murray’s _The Fiend’s Weather_ (p.
+89), _Where the Somme meets the Sea_, by Tom Robertson (p. 90), and
+Moffat Lindner’s _The Storm-Cloud, Christchurch Harbour_ (p. 91),
 provide a sufficiently striking contrast in effects of atmosphere. The
 first suggests the turmoil of a gathering storm, threatening ruin and
 destruction to everything in its path and sweeping irresistibly over
@@ -1757,59 +1656,59 @@ at a time when beneath her smile lies a threat, and when almost without
 warning a sudden outburst may break the quiet of a summer evening. All
 three paintings deserve attention, for they represent artists who are
 prominent amongst us to-day and whose work is with justice widely
-appreciated.</p>
+appreciated.
 
-<p>Another painter who handles coast subjects with notable ability is W.
-Russell Flint. His two water-colours, <i>The Fane Islands</i> (p. 93) and
-<i>Passing Sails</i> (p. 95), have a breadth and distinction of manner and a
+Another painter who handles coast subjects with notable ability is W.
+Russell Flint. His two water-colours, _The Fane Islands_ (p. 93) and
+_Passing Sails_ (p. 95), have a breadth and distinction of manner and a
 brilliant directness of brushwork that can be unreservedly admired. His
 simplified method of dealing with nature’s facts is very effective, as
 it gives plainly the real essentials without any labouring of detail and
 without diverting attention from the things that he wishes to emphasize.
 It has a decorative value, too, and adds a quality of style to his work.
 During the last few years he has produced many paintings of this
-type&mdash;coast scenes with figures&mdash;and he has kept them consistently at a
-high level of accomplishment.</p>
+type--coast scenes with figures--and he has kept them consistently at a
+high level of accomplishment.
 
-<p>Cecil King’s delightful <i>Regatta Day at Appledore</i> (p. 98) has to do
-with the lighter side of sea life, and his <i>H.M.S. “Wolsey”</i> (p. 97)
-with matters much more serious. The <i>Regatta Day</i>, as its subject
+Cecil King’s delightful _Regatta Day at Appledore_ (p. 98) has to do
+with the lighter side of sea life, and his _H.M.S. “Wolsey”_ (p. 97)
+with matters much more serious. The _Regatta Day_, as its subject
 befits, is a lively and brightly treated study, full of incident, and
 attractively irresponsible in composition. It has both power and
 originality, and it puts beyond question his capabilities as a
 draughtsman because it presents a difficult problem in perspective which
 he has solved most happily. But much of its charm comes from the holiday
-spirit in which it is conceived and carried out. The <i>H.M.S. “Wolsey”</i>
+spirit in which it is conceived and carried out. The _H.M.S. “Wolsey”_
 is more sober, and conveys well the idea of the grim simplicity of the
-practical fighting machine built for use, not ornament.</p>
+practical fighting machine built for use, not ornament.
 
-<p>Norman Wilkinson is a versatile artist who does many things well, and
+Norman Wilkinson is a versatile artist who does many things well, and
 who yields to no one at the present time in knowledge of the pictorial
 chances which the sea provides. He is shown here under more than one
-aspect&mdash;as a painter of interesting realities in his panoramic <i>Plymouth
-Harbour</i> (p. 100), as a very acute student of wave movement in <i>Up
-Channel</i> (p. 103) and <i>The Wave</i> (p. 101), and as a maker of rapid and
-suggestive notes in his sketch <i>Etretat</i> (p. 99). Of these examples the
-most arresting in many ways is <i>The Wave</i>; it has such an unusual amount
+aspect--as a painter of interesting realities in his panoramic _Plymouth
+Harbour_ (p. 100), as a very acute student of wave movement in _Up
+Channel_ (p. 103) and _The Wave_ (p. 101), and as a maker of rapid and
+suggestive notes in his sketch _Etretat_ (p. 99). Of these examples the
+most arresting in many ways is _The Wave_; it has such an unusual amount
 of vitality, it is so seriously observed and yet so free and unlaboured,
 and it is so correct not only in action but also in matters of lighting
-and reflection and of colour variation as well. This is an instance<span class="pagenum"><a name="page_33" id="page_33">{33}</a></span> of
+and reflection and of colour variation as well. This is an instance of
 the happy alliance of the science and the art of marine painting to
-bring about a perfectly balanced result.</p>
+bring about a perfectly balanced result.
 
-<p class="csml"><i>Windbound</i> (p. 104), by Hely Smith, and <i>The Needles</i> (p. 107), by
+_Windbound_ (p. 104), by Hely Smith, and _The Needles_ (p. 107), by
 Charles Pears, are inshore studies, notes of incidents which, though
 they are undramatic, lend themselves well to the painters’ purposes.
-<i>The Needles</i>, with its sense of breeziness and of the rough-and-tumble
+_The Needles_, with its sense of breeziness and of the rough-and-tumble
 of a tide-race, is a picture that excites a distinctly pleasurable
 emotion, so much is there in it of the joy of living when the sun shines
 brightly and the wind blows briskly and the sea is sparkling and full of
-colour. The other two pictures by Charles Pears, <i>The Examination</i> (p.
-106) and <i>The Yacht Race</i> (p. 105), make a contrast of grave and gay&mdash;a
-contrast between the dark moments of war and the happy times of peace.</p>
+colour. The other two pictures by Charles Pears, _The Examination_ (p.
+106) and _The Yacht Race_ (p. 105), make a contrast of grave and gay--a
+contrast between the dark moments of war and the happy times of peace.
 
-<p>Neither W. Marshall Brown in <i>The Sea</i> (p. 109), nor Julius Olsson in
-<i>The Night Wrack</i> (p. 110) and <i>Heavy Weather in the Channel</i> (p. 111),
+Neither W. Marshall Brown in _The Sea_ (p. 109), nor Julius Olsson in
+_The Night Wrack_ (p. 110) and _Heavy Weather in the Channel_ (p. 111),
 seek to make their pictures more attractive by adding to them any
 subsidiary incident. They are content to depend for success upon the
 plain statement of things they have seen in the sea itself and to be
@@ -1817,63 +1716,63 @@ painters of the sea, and the sea alone. But both of them have found
 stirring subjects, impressively strong and calling for a particular
 decisiveness of method, and both have proved fully equal to the
 occasion. Of these three canvases perhaps the most largely seen and the
-finest in its grasp of the motive as a whole is the <i>Heavy Weather in
-the Channel</i>, which has really monumental breadth and dignity.</p>
+finest in its grasp of the motive as a whole is the _Heavy Weather in
+the Channel_, which has really monumental breadth and dignity.
 
-<p>Between these powerful paintings and those of the Hon. Duff Tollemache
+Between these powerful paintings and those of the Hon. Duff Tollemache
 and A. J. W. Burgess, which have a similar æsthetic intention, come in
 the sequence of the illustrations two very interesting works of Walter
-Bayes, <i>The Timid Bather</i> (p. 113) and <i>The Red Beach</i> (p. 112). These
+Bayes, _The Timid Bather_ (p. 113) and _The Red Beach_ (p. 112). These
 make an intelligent compromise between realism and abstract decoration;
 they are designs worked out with a sound idea of pattern-making and in
 accordance with a pre-conceived scheme of arrangement, but the details
 of which they are composed have been studied from nature with serious
 and observant vision. They are fancies with a solid foundation of fact,
-while <i>The Watch that Never Ends</i> (p. 116) and <i>The Scarborough Fleet</i>
-(p. 117), by Burgess, and the <i>Storm on the Cornish Coast</i> (p. 115), by
+while _The Watch that Never Ends_ (p. 116) and _The Scarborough Fleet_
+(p. 117), by Burgess, and the _Storm on the Cornish Coast_ (p. 115), by
 Tollemache, are pure fact all through, and fact stated with
-well-justified confidence.</p>
+well-justified confidence.
 
-<p>A decorative purpose is very definitely apparent in John Everett’s <i>Deck
-of a Tea-Clipper in the Tropics</i> (p. 118) and <i>Breakers</i> (p. 119), but
+A decorative purpose is very definitely apparent in John Everett’s _Deck
+of a Tea-Clipper in the Tropics_ (p. 118) and _Breakers_ (p. 119), but
 this purpose has been fulfilled with excellent judgment and eminently
 good taste. There is an obvious formality in both pictures, and yet this
-formality does not detract from their charm&mdash;indeed, in the <i>Breakers</i>
+formality does not detract from their charm--indeed, in the _Breakers_
 it adds strength to a sensitive note of an afterglow effect in which
 there is a delightful perception of tone subtleties and of varieties of
-curiously related colour.</p>
+curiously related colour.
 
-<p>Two absolutely opposed points of view are illustrated in <i>The Wave</i> (p.
-123), by Nevinson, and <i>Margate</i> (p. 121), by James McBey. <i>The Wave</i> is
+Two absolutely opposed points of view are illustrated in _The Wave_ (p.
+123), by Nevinson, and _Margate_ (p. 121), by James McBey. _The Wave_ is
 an exposition of a modern theory of pictorial expression; it is set
 forth with unhesitating clearness of manner and method, and allows the
 artist’s attitude to be estimated at its full value. In such a series as
 this it fittingly has its place because it presents an aspect of marine
-painting that has to be considered. The <i>Margate</i> sketch, like W. T. M.
-Hawksworth’s clever <i>Low Water, Penzance</i> (p. 125), and the <i>Wet Rocks,
-St. Ives</i>, by R. Borlase Smart (p. 126), is frankly naturalistic,
+painting that has to be considered. The _Margate_ sketch, like W. T. M.
+Hawksworth’s clever _Low Water, Penzance_ (p. 125), and the _Wet Rocks,
+St. Ives_, by R. Borlase Smart (p. 126), is frankly naturalistic,
 professing to be nothing more than a plain record of things as they
-are,<span class="pagenum"><a name="page_34" id="page_34">{34}</a></span> and propounding no new theories about the development and
+are, and propounding no new theories about the development and
 evolution of art. Its spontaneous delicacy of handling is one of its
-most evident merits.</p>
+most evident merits.
 
-<p class="csml"><i>Motor Launches</i>, by G. S. Allfree (p. 127), is an example of a type of
+_Motor Launches_, by G. S. Allfree (p. 127), is an example of a type of
 work which seeks to combine actuality and fantasy in carefully studied
 proportion, and to produce by this combination something that will be
 more significant than an absolutely imitative transcription of nature.
 Certain features of the picture are exaggerated and given marked
 emphasis so that they may point more definitely the meaning of the
 subject and increase the strength of its dramatic suggestion. When this
-method is employed with sane understanding&mdash;and with the necessary touch
-of imagination&mdash;it has excellent results. In this case the artist has
+method is employed with sane understanding--and with the necessary touch
+of imagination--it has excellent results. In this case the artist has
 seen correctly how far it would be expedient for him to go and has not
-spoiled his picture by making it too audacious.</p>
+spoiled his picture by making it too audacious.
 
-<p>Yet another phase of modern thought in art influences the work of I. W.
+Yet another phase of modern thought in art influences the work of I. W.
 Brooks, whose desire is not so much to tell a story or to hold the
 mirror up to nature as to produce an ornamental abstraction. When the
 methods he employs to attain this end are not too much defined the
-outcome of them is a picture like <i>In Cymyran Bay</i> (p. 129), which has a
+outcome of them is a picture like _In Cymyran Bay_ (p. 129), which has a
 most agreeable restfulness and decorative balance and is inspired by a
 feeling of serious reality. When he is more explicit in his processes he
 arrives at results like the two coast scenes (pp. 128 and 131), which
@@ -1881,13 +1780,13 @@ have the arbitrary expression of a Japanese print and go as far in their
 elimination of everything save the fundamentals of the design. But such
 methods are undeniably legitimate because where they are used with due
 discretion they make possible the working out of decorative schemes
-which have both distinction and beauty.</p>
+which have both distinction and beauty.
 
-<p>A number of notable paintings of marine subjects stand to the credit of
+A number of notable paintings of marine subjects stand to the credit of
 Terrick Williams, who has for some years past devoted himself to this
 branch of art with conspicuous success. Some idea of the grace and
-delicacy of his work can be obtained from the example shown, <i>Clouds
-over the Sea, Holland</i> (p. 132); but naturally it does not reveal the
+delicacy of his work can be obtained from the example shown, _Clouds
+over the Sea, Holland_ (p. 132); but naturally it does not reveal the
 character of his colour. As a colourist he is more than ordinarily
 endowed, he has the real colour emotion, and it is always delightfully
 in evidence in everything he does, and always it is controlled by an
@@ -1895,12 +1794,12 @@ unerring taste. He has, too, an acute perception of refinements of tone
 by which he is guided surely in his treatment of the luminous
 atmospheric effects to which he especially inclines. His right to a
 place among the chief of the British marine painters of the present day
-is indisputable.</p>
+is indisputable.
 
-<p>The last two artists on the list are very unlike one another, so this
+The last two artists on the list are very unlike one another, so this
 series of illustrations ends with an effective contrast of styles. The
 picture by Frank Emanuel differs widely in intention and manner from
-those by E. A. Cox. <i>The Ancient Port of Fêques</i> (p. 133) shows
+those by E. A. Cox. _The Ancient Port of Fêques_ (p. 133) shows
 affinities both in style and manner with the early nineteenth-century
 sea painters and follows their tradition in composition and
 light-and-shade arrangement. Still, the artist has chosen good material
@@ -1909,755 +1808,657 @@ and 135), is a decorator with a faculty for seeing things largely, and
 for setting them down confidently. His use of broad, flat tones is most
 effective, and the vigorous precision of his drawing gives a convincing
 quality to his performances. He seems always to know just what he wants
-to do and to be able to do it without a moment’s hesitation&mdash;and that
-implies very assured knowledge acquired by the most thorough training.</p>
+to do and to be able to do it without a moment’s hesitation--and that
+implies very assured knowledge acquired by the most thorough training.
 
-<p class="rt">
-A. L. BALDRY</p>
+                                                           A. L. BALDRY
 
-<p><span class="pagenum"><a name="page_35" id="page_35">{35]</a></span>&nbsp; </p>
+[Illustration: “THE CALM.” BY CHARLES BROOKING
 
-<div class="figcenter"><a href="images/ill_pg_035.jpg">
-<img src="images/ill_pg_035.jpg"
-width="600" alt="[Image unavailable.]" /></a>
-<p>“THE CALM.” BY CHARLES BROOKING</p>
+_Photo, Mansell_
 
-<p class="csml"><i>Photo, Mansell</i></p>
+(_In the National Gallery, London_)]
 
-<p class="csml">(<i>In the National Gallery, London</i>)</p></div>
+[Illustration: “FISHERMEN HAULING IN A BOAT.” BY GEORGE MORLAND
 
-<p><span class="pagenum"><a name="page_36" id="page_36">{36}</a></span>&nbsp; </p>
+_Photo, Mansell_
 
-<p><span class="pagenum"><a name="page_37" id="page_37">{37]</a></span>&nbsp; </p>
+(_In the Victoria and Albert Museum, London_)]
 
-<div class="figcenter"><a href="images/ill_pg_037.jpg">
-<img src="images/ill_pg_037.jpg"
-width="600" alt="[Image unavailable.]" /></a>
-<p>“FISHERMEN HAULING IN A BOAT.” BY GEORGE MORLAND</p>
+[Illustration: “SEAPIECE.” BY JOHN H. WILSON, R.S.A.
 
-<p class="csml"><i>Photo, Mansell</i></p>
+(_In the possession of Messrs. Arthur Tooth & Sons_)]
 
-<p class="csml">(<i>In the Victoria and Albert Museum, London</i>)</p></div>
+[Illustration: “CHESIL BEACH.” BY JOHN CONSTABLE, R.A.
 
-<p><span class="pagenum"><a name="page_38" id="page_38">{38]</a></span></p>
+(_In the possession of John Levy, Esq., New York_)]
 
-<div class="figcenter"><a href="images/ill_pg_038.jpg">
-<img src="images/ill_pg_038.jpg"
-width="600" alt="[Image unavailable.]" /></a>
-<p>“SEAPIECE.” BY JOHN H. WILSON, R.S.A.</p>
+[Illustration: “THE SHIPWRECK.” BY J. M. W. TURNER, R.A.
 
-<p class="csml">(<i>In the possession of Messrs. Arthur Tooth &amp; Sons</i>)</p></div>
+_Photo, Mansell_
 
-<p><span class="pagenum"><a name="page_39" id="page_39">{39]</a></span></p>
+(_In the National Gallery of British Art, London_)]
 
-<div class="figcenter"><a href="images/ill_pg_039.jpg">
-<img src="images/ill_pg_039.jpg"
-width="600" alt="[Image unavailable.]" /></a>
-<p>“CHESIL BEACH.” BY JOHN CONSTABLE, R.A.</p>
+[Illustration: “THE PRINCE OF ORANGE LANDING AT TORBAY NOVEMBER 5,
+1688.” BY J. M. W. TURNER, R.A.
 
-<p class="csml">(<i>In the possession of John Levy, Esq., New York</i>)</p></div>
+_Photo, Mansell_
 
-<p><span class="pagenum"><a name="page_40" id="page_40">{40}</a></span>&nbsp; </p>
+(_In the National Gallery of British Art, London_)]
 
-<p><span class="pagenum"><a name="page_41" id="page_41">{41]</a></span>&nbsp; </p>
+[Illustration: “YACHT RACING IN THE SOLENT.” BY J. M. W. TURNER, R.A.
 
-<div class="figcenter"><a href="images/ill_pg_041.jpg">
-<img src="images/ill_pg_041.jpg"
-width="600" alt="[Image unavailable.]" /></a>
-<p>“THE SHIPWRECK.” BY J. M. W. TURNER, R.A.</p>
+_Photo, Mansell_
 
-<p class="csml"><i>Photo, Mansell</i></p>
+(_In the National Gallery of British Art, London_)]
 
-<p class="csml">(<i>In the National Gallery of British Art, London</i>)</p></div>
+[Illustration: “FARNE ISLAND.” BY J. M. W. TURNER, R.A.
 
-<p><span class="pagenum"><a name="page_42" id="page_42">{42]</a></span></p>
+(_In the Collection at Barbizon House_)]
 
-<div class="figcenter"><a href="images/ill_pg_042.jpg">
-<img src="images/ill_pg_042.jpg"
-width="600" alt="[Image unavailable.]" /></a>
-<p>“THE PRINCE OF ORANGE LANDING AT TORBAY NOVEMBER 5,
-1688.” BY J. M. W. TURNER, R.A.</p>
+[Illustration: “LOWESTOFT.” BY J. M. W. TURNER, R.A.
 
-<p class="csml"><i>Photo, Mansell</i></p>
+(_In the possession of R. W. Lloyd, Esq._)]
 
-<p class="csml">(<i>In the National Gallery of British Art, London</i>)</p></div>
+[Illustration: “FAST CASTLE.” BY THE REV. JOHN THOMSON OF DUDDINGSTON,
+R.S.A.
 
-<p><span class="pagenum"><a name="page_43" id="page_43">{43]</a></span></p>
+(_In the Collection at Barbizon House_)]
 
-<div class="figcenter"><a href="images/ill_pg_043.jpg">
-<img src="images/ill_pg_043.jpg"
-width="600" alt="[Image unavailable.]" /></a>
-<p>“YACHT RACING IN THE SOLENT.” BY J. M. W. TURNER, R.A.</p>
+[Illustration: “A GALIOT IN A STORM” BY JOHN SELL COTMAN
 
-<p class="csml"><i>Photo, Mansell</i></p>
+_Photo Woodbury Co._
 
-<p class="csml">(<i>In the National Gallery of British Art, London</i>)</p></div>
+(_In the National Gallery, London_)]
 
-<p><span class="pagenum"><a name="page_44" id="page_44">{44]</a></span></p>
+[Illustration: “CALAIS PIER.” BY DAVID COX
 
-<div class="figcenter"><a href="images/ill_pg_044.jpg">
-<img src="images/ill_pg_044.jpg"
-width="600" alt="[Image unavailable.]" /></a>
-<p>“FARNE ISLAND.” BY J. M. W. TURNER, R.A.</p>
+(_In the possession of Messrs. Thos. Agnew & Sons_)]
 
-<p class="csml">(<i>In the Collection at Barbizon House</i>)</p></div>
+[Illustration: _Photo, Mansell_
 
-<p><span class="pagenum"><a name="page_45" id="page_45">{45]</a></span></p>
+(_In the National Gallery of British Art, London_)
 
-<div class="figcenter"><a href="images/ill_pg_045.jpg">
-<img src="images/ill_pg_045.jpg"
-width="600" alt="[Image unavailable.]" /></a>
-<p>“LOWESTOFT.” BY J. M. W. TURNER, R.A.</p>
+“TOTLAND BAY.” BY J. B. PYNE]
 
-<p class="csml">(<i>In the possession of R. W. Lloyd, Esq.</i>)</p></div>
+[Illustration: (_In the possession of A. T. Hollingsworth, Esq._)
 
-<p><span class="pagenum"><a name="page_46" id="page_46">{46}</a></span>&nbsp; </p>
+“OFF PORTSMOUTH.” BY GEORGE CHAMBERS]
 
-<p><span class="pagenum"><a name="page_47" id="page_47">{47]</a></span>&nbsp; </p>
+[Illustration: (_In the possession of Messrs. Arthur Tooth & Sons_)
 
-<div class="figcenter"><a href="images/ill_pg_047.jpg">
-<img src="images/ill_pg_047.jpg"
-width="600" alt="[Image unavailable.]" /></a>
-<p>“FAST CASTLE.” BY THE REV. JOHN THOMSON OF DUDDINGSTON,
-R.S.A.</p>
+“THE PORT OF LA ROCHELLE.” BY W. CLARKSON STANFIELD, R.A.]
 
-<p class="csml">(<i>In the Collection at Barbizon House</i>)</p></div>
+[Illustration: _Photo, Mansell_
 
-<p><span class="pagenum"><a name="page_48" id="page_48">{48]</a></span></p>
+“ENTRANCE TO THE ZUYDER ZEE, TEXEL ISLAND” BY W. CLARKSON STANFIELD,
+R.A.
 
-<div class="figcenter"><a href="images/ill_pg_048.jpg">
-<img src="images/ill_pg_048.jpg"
-width="600" alt="[Image unavailable.]" /></a>
-<p>“A GALIOT IN A STORM” BY JOHN SELL COTMAN</p>
+(_In the National Gallery of British Art, London_)]
 
-<p class="csml"><i>Photo Woodbury Co.</i></p>
+[Illustration: (_In the possession of Messrs. Thos. Agnew & Sons_)
 
-<p class="csml">(<i>In the National Gallery, London</i>)</p></div>
+“COAST SCENE.” BY W. CLARKSON STANFIELD, R.A.]
 
-<p><span class="pagenum"><a name="page_49" id="page_49">{49]</a></span></p>
+[Illustration: _Photo, Mansell_
 
-<div class="figcenter"><a href="images/ill_pg_049.jpg">
-<img src="images/ill_pg_049.jpg"
-width="600" alt="[Image unavailable.]" /></a>
-<p>“CALAIS PIER.” BY DAVID COX</p>
+(_In the National Gallery of British Art, London_)
 
-<p class="csml">(<i>In the possession of Messrs. Thos. Agnew &amp; Sons</i>)</p></div>
+“PEGWELL BAY, 1858.” BY WILLIAM DYCE, R.A.]
 
-<p><span class="pagenum"><a name="page_50" id="page_50">{50}</a></span>&nbsp; </p>
+[Illustration: _Photo, Mansell_
 
-<p><span class="pagenum"><a name="page_51" id="page_51">{51]</a></span>&nbsp; </p>
+(_In the National Gallery of British Art, London_)
 
-<div class="figcenter"><a href="images/ill_pg_051.jpg">
-<img src="images/ill_pg_051.jpg"
-width="600" alt="[Image unavailable.]" /></a>
-<p class="csml"><i>Photo, Mansell</i></p>
+“DUTCH BOATS IN A CALM.” BY E. W. COOKE, R.A.]
 
-<p class="csml">(<i>In the National Gallery of British Art, London</i>)</p>
+[Illustration: _Photo, Annan_
 
-<p>“TOTLAND BAY.” BY J. B. PYNE</p></div>
+(_In the National Gallery of Scotland, Edinburgh_)
 
-<p><span class="pagenum"><a name="page_52" id="page_52">{52]</a></span></p>
+“CLOSEHAULED, CROSSING THE BAR.” BY E. T. CRAWFORD, R.S.A.]
 
-<div class="figcenter"><a href="images/ill_pg_052.jpg">
-<img src="images/ill_pg_052.jpg"
-width="600" alt="[Image unavailable.]" /></a>
-<p class="csml">(<i>In the possession of A. T. Hollingsworth, Esq.</i>)</p>
+[Illustration: _Photo, Mansell_
 
-<p>“OFF PORTSMOUTH.” BY GEORGE CHAMBERS</p></div>
+(_In the National Gallery of British Art, London_)
 
-<p><span class="pagenum"><a name="page_53" id="page_53">{53]</a></span></p>
+“DREDGING ON THE MEDWAY.” BY WILLIAM J. MÜLLER]
 
-<div class="figcenter"><a href="images/ill_pg_053.jpg">
-<img src="images/ill_pg_053.jpg"
-width="600" alt="[Image unavailable.]" /></a>
-<p class="csml">(<i>In the possession of Messrs. Arthur Tooth &amp; Sons</i>)</p>
+[Illustration: (_In the possession of Messrs_. _Arthur Tooth & Sons_)
 
-<p>“THE PORT OF LA ROCHELLE.” BY W. CLARKSON STANFIELD, R.A.</p></div>
+“COAST SCENE.” BY COPLEY FIELDING]
 
-<p><span class="pagenum"><a name="page_54" id="page_54">{54]</a></span></p>
+[Illustration: _Photo, Mansell_
 
-<div class="figcenter"><a href="images/ill_pg_054.jpg">
-<img src="images/ill_pg_054.jpg"
-width="600" alt="[Image unavailable.]" /></a>
-<p class="csml"><i>Photo, Mansell</i></p>
+(_In the National Gallery of British Art, London_)
 
-<p>“ENTRANCE TO THE ZUYDER ZEE, TEXEL ISLAND” BY W. CLARKSON STANFIELD,
-R.A.</p>
+“SUNSET AT SEA: FROM HARLYN BAY, CORNWALL.” BY EDWIN HAYES, R.H.A.,
+R.I.]
 
-<p class="csml">(<i>In the National Gallery of British Art, London</i>)</p></div>
+[Illustration: _Photo, Mansell_
 
-<p><span class="pagenum"><a name="page_55" id="page_55">{55]</a></span></p>
+(_In the National Gallery of British Art, London_)
 
-<div class="figcenter"><a href="images/ill_pg_055.jpg">
-<img src="images/ill_pg_055.jpg"
-width="600" alt="[Image unavailable.]" /></a>
-<p class="csml">(<i>In the possession of Messrs. Thos. Agnew &amp; Sons</i>)</p>
+“THE KYLES OF BUTE.” BY C. PARSONS KNIGHT]
 
-<p>“COAST SCENE.” BY W. CLARKSON STANFIELD, R.A.</p></div>
+[Illustration: _Photo, Mansell_
 
-<p><span class="pagenum"><a name="page_56" id="page_56">{56}</a></span>&nbsp; </p>
+(_In the National Gallery of British Art, London_)
 
-<p><span class="pagenum"><a name="page_57" id="page_57">{57]</a></span>&nbsp; </p>
+“FROM THE DORSETSHIRE CLIFFS.” BY JOHN BRETT, A.R.A.]
 
-<div class="figcenter"><a href="images/ill_pg_057.jpg">
-<img src="images/ill_pg_057.jpg"
-width="600" alt="[Image unavailable.]" /></a>
-<p class="csml"><i>Photo, Mansell</i></p>
+[Illustration: (_In the possession of Messrs. William Marchant & Co._)
 
-<p class="csml">(<i>In the National Gallery of British Art, London</i>)</p>
+“THE WRECK.” BY C. E. HOLLOWAY]
 
-<p>“PEGWELL BAY, 1858.” BY WILLIAM DYCE, R.A.</p></div>
+[Illustration: (_In the possession of Mrs. Lewis Hind_)
 
-<p><span class="pagenum"><a name="page_58" id="page_58">{58]</a></span></p>
+“MARINE.” BY J. McNEILL WHISTLER]
 
-<div class="figcenter"><a href="images/ill_pg_058.jpg">
-<img src="images/ill_pg_058.jpg"
-width="600" alt="[Image unavailable.]" /></a>
-<p class="csml"><i>Photo, Mansell</i></p>
+[Illustration: _Photo, Mansell_
 
-<p class="csml">(<i>In the National Gallery of British Art, London</i>)</p>
+(_In the National Gallery of British Art, London_)
 
-<p>“DUTCH BOATS IN A CALM.” BY E. W. COOKE, R.A.</p></div>
+“THE SEAWEED RAKER.” BY J. C. HOOK, R.A.]
 
-<p><span class="pagenum"><a name="page_59" id="page_59">{59]</a></span></p>
+[Illustration: (_In the possession of Messrs. Arthur Tooth & Sons_)
 
-<div class="figcenter"><a href="images/ill_pg_059.jpg">
-<img src="images/ill_pg_059.jpg"
-width="600" alt="[Image unavailable.]" /></a>
-<p class="csml"><i>Photo, Annan</i></p>
+“A BREAK IN THE CLOUD.” BY HENRY MOORE, R.A.]
 
-<p class="csml">(<i>In the National Gallery of Scotland, Edinburgh</i>)</p>
+[Illustration: _Photo, Annan_
 
-<p>“CLOSEHAULED, CROSSING THE BAR.” BY E. T. CRAWFORD, R.S.A.</p></div>
+(_In the Corporation Art Gallery, Glasgow_)
 
-<p><span class="pagenum"><a name="page_60" id="page_60">{60]</a></span></p>
+“FAREWELL TO SKYE.” BY COLIN HUNTER, A.R.A]
 
-<div class="figcenter"><a href="images/ill_pg_060.jpg">
-<img src="images/ill_pg_060.jpg"
-width="600" alt="[Image unavailable.]" /></a>
-<p class="csml"><i>Photo, Mansell</i></p>
+[Illustration: (_By permission of Messrs. J. Maclehose & Sons,
+Publishers of Mr. James L. Caw’s “William McTaggart, R.S.A._”)
 
-<p class="csml">(<i>In the National Gallery of British Art, London</i>)</p>
+“THE SOUNDING SEA.” BY WILLIAM McTAGGART, R.S.A.]
 
-<p>“DREDGING ON THE MEDWAY.” BY WILLIAM J. MÜLLER</p></div>
+[Illustration: (_In the possession of Mr. John A. Cooling_)
 
-<p><span class="pagenum"><a name="page_61" id="page_61">{61]</a></span></p>
+“IN PORT.” BY FRANK BRANGWYN, R.A.]
 
-<div class="figcenter"><a href="images/ill_pg_061.jpg">
-<img src="images/ill_pg_061.jpg"
-width="600" alt="[Image unavailable.]" /></a>
-<p class="csml">(<i>In the possession of Messrs</i>. <i>Arthur Tooth &amp; Sons</i>)</p>
+[Illustration: _Photo, Mansell_
 
-<p>“COAST SCENE.” BY COPLEY FIELDING</p></div>
+(_By permission of the Leeds Art Gallery Committee_)
 
-<p><span class="pagenum"><a name="page_62" id="page_62">{62}</a></span>&nbsp; </p>
+“A CHANGE OF WIND: BOULOGNE HARBOUR.” BY T. B. HARDY]
 
-<p><span class="pagenum"><a name="page_63" id="page_63">{63]</a></span>&nbsp; </p>
+[Illustration: _Photo, Mansell_
 
-<div class="figcenter"><a href="images/ill_pg_063.jpg">
-<img src="images/ill_pg_063.jpg"
-width="600" alt="[Image unavailable.]" /></a>
-<p class="csml"><i>Photo, Mansell</i></p>
+(_By permission of the Oldham Art Gallery Committee_)
 
-<p class="csml">(<i>In the National Gallery of British Art, London</i>)</p>
+“A BOAT ADRIFT.” BY C. NAPIER HEMY, R.A., R.W.S.]
 
-<p>“SUNSET AT SEA: FROM HARLYN BAY, CORNWALL.” BY EDWIN HAYES, R.H.A.,
-R.I.</p></div>
+[Illustration: “EVENING.” THE COAST OF SPAIN FROM TANGIER. BY SIR JOHN
+LAVERY, A.R.A., R.S.A.]
 
-<p><span class="pagenum"><a name="page_64" id="page_64">{64}</a></span>&nbsp; </p>
+[Illustration: “BLAKE’S THREE DAYS ENGAGEMENT WITH VAN TROMP.” BY W. L.
+WYLLIE, R.A.]
 
-<p><span class="pagenum"><a name="page_65" id="page_65">{65]</a></span>&nbsp; </p>
+[Illustration: _Photo, Mansell_
 
-<div class="figcenter"><a href="images/ill_pg_065.jpg">
-<img src="images/ill_pg_065.jpg"
-width="600" alt="[Image unavailable.]" /></a>
-<p class="csml"><i>Photo, Mansell</i></p>
+(_In the National Gallery of British Art, London_)
 
-<p class="csml">(<i>In the National Gallery of British Art, London</i>)</p>
+“OFF VALPARAISO.” BY THOMAS SOMERSCALES]
 
-<p>“THE KYLES OF BUTE.” BY C. PARSONS KNIGHT</p></div>
+[Illustration: “BEFORE THE GALE.” BY THOMAS SOMERSCALES]
 
-<p><span class="pagenum"><a name="page_66" id="page_66">{66}</a></span>&nbsp; </p>
+[Illustration: “OFF TO THE FISHING GROUNDS.” BY ROBERT W. ALLAN,
+R.W.S.]
 
-<p><span class="pagenum"><a name="page_67" id="page_67">{67]</a></span>&nbsp; </p>
+[Illustration: “LANDING FISH.” BY CHARLES W. SIMPSON, R.I., R.B.A.]
 
-<div class="figcenter"><a href="images/ill_pg_067.jpg">
-<img src="images/ill_pg_067.jpg"
-width="600" alt="[Image unavailable.]" /></a>
-<p class="csml"><i>Photo, Mansell</i></p>
+[Illustration: “FLYING FISH.” BY HERBERT DRAPER]
 
-<p class="csml">(<i>In the National Gallery of British Art, London</i>)</p>
+[Illustration: _Photo, Mansell_
 
-<p>“FROM THE DORSETSHIRE CLIFFS.” BY JOHN BRETT, A.R.A.</p></div>
+(_In the National Gallery of British Art, London_)
 
-<p><span class="pagenum"><a name="page_68" id="page_68">{68]</a></span></p>
+“AUGUST BLUE.” BY HENRY S. TUKE, R.A., R.W.S.]
 
-<div class="figcenter"><a href="images/ill_pg_068.jpg">
-<img src="images/ill_pg_068.jpg"
-width="600" alt="[Image unavailable.]" /></a>
-<p class="csml">(<i>In the possession of Messrs. William Marchant &amp; Co.</i>)</p>
+[Illustration: “THE FIEND’S WEATHER.” BY SIR DAVID MURRAY, R.A., P.R.I.,
+A.R.S.A.]
 
-<p>“THE WRECK.” BY C. E. HOLLOWAY</p></div>
+[Illustration: “WHERE THE SOMME MEETS THE SEA” BY TOM ROBERTSON]
 
-<p><span class="pagenum"><a name="page_69" id="page_69">{69]</a></span></p>
+[Illustration: (_In the possession of the Barcelona Corporation_)
 
-<div class="figcenter"><a href="images/ill_pg_069.jpg">
-<img src="images/ill_pg_069.jpg"
-width="600" alt="[Image unavailable.]" /></a>
-<p class="csml">(<i>In the possession of Mrs. Lewis Hind</i>)</p>
+“THE STORM-CLOUD, CHRISTCHURCH HARBOUR” BY MOFFAT LINDNER, A.R.W.S.]
 
-<p>“MARINE.” BY J. McNEILL WHISTLER</p></div>
+[Illustration: (_In the possession of The Fine Art Society_)
 
-<p><span class="pagenum"><a name="page_70" id="page_70">{70}</a></span>&nbsp; </p>
+“THE FANE ISLANDS.” BY W. RUSSELL FLINT, R.W.S.]
 
-<p><span class="pagenum"><a name="page_71" id="page_71">{71]</a></span>&nbsp; </p>
+[Illustration: (_In the possession of The Fine Art Society_)
 
-<div class="figcenter"><a href="images/ill_pg_071.jpg">
-<img src="images/ill_pg_071.jpg"
-width="600" alt="[Image unavailable.]" /></a>
-<p class="csml"><i>Photo, Mansell</i></p>
+“PASSING SAILS.” BY W. RUSSELL FLINT, R.W.S.]
 
-<p class="csml">(<i>In the National Gallery of British Art, London</i>)</p>
+[Illustration: (_By permission of the Imperial War Museum_)
 
-<p>“THE SEAWEED RAKER.” BY J. C. HOOK, R.A.</p></div>
+“H.M.S. ‘WOLSEY’ IN THE ICE AT LIBAU.” BY CECIL KING]
 
-<p><span class="pagenum"><a name="page_72" id="page_72">{72]</a></span></p>
+[Illustration: “REGATTA DAY AT APPLEDORE.” BY CECIL KING]
 
-<div class="figcenter"><a href="images/ill_pg_072.jpg">
-<img src="images/ill_pg_072.jpg"
-width="600" alt="[Image unavailable.]" /></a>
-<p class="csml">(<i>In the possession of Messrs. Arthur Tooth &amp; Sons</i>)</p>
+[Illustration: “ETRETAT.” BY NORMAN WILKINSON, R.I.]
 
-<p>“A BREAK IN THE CLOUD.” BY HENRY MOORE, R.A.</p></div>
+[Illustration: “PLYMOUTH HARBOUR.” BY NORMAN WILKINSON, R.I.]
 
-<p><span class="pagenum"><a name="page_73" id="page_73">{73]</a></span></p>
+[Illustration: “THE WAVE.” BY NORMAN WILKINSON, R.I.]
 
-<div class="figcenter"><a href="images/ill_pg_073.jpg">
-<img src="images/ill_pg_073.jpg"
-width="600" alt="[Image unavailable.]" /></a>
-<p class="csml"><i>Photo, Annan</i></p>
+[Illustration: “UP CHANNEL.” BY NORMAN WILKINSON, R.I.]
 
-<p class="csml">(<i>In the Corporation Art Gallery, Glasgow</i>)</p>
+[Illustration: “WINDBOUND.” BY HELY SMITH, R.B.A]
 
-<p>“FAREWELL TO SKYE.” BY COLIN HUNTER, A.R.A</p></div>
+[Illustration: “THE YACHT RACE.” BY CHARLES PEARS]
 
-<p><span class="pagenum"><a name="page_74" id="page_74">{74]</a></span></p>
+[Illustration: “THE EXAMINATION.” BY CHARLES PEARS]
 
-<div class="figcenter"><a href="images/ill_pg_074.jpg">
-<img src="images/ill_pg_074.jpg"
-width="600" alt="[Image unavailable.]" /></a>
-<p>(<i>By permission of Messrs. J. Maclehose &amp; Sons,
-Publishers of Mr. James L. Caw’s “William McTaggart, R.S.A.</i>”)</p>
+[Illustration: “THE NEEDLES.” BY CHARLES PEARS]
 
-<p>“THE SOUNDING SEA.” BY WILLIAM McTAGGART, R.S.A.</p></div>
+[Illustration: “THE SEA.” BY W. MARSHALL BROWN, A.R.S.A.]
 
-<p><span class="pagenum"><a name="page_75" id="page_75">{75]</a></span></p>
+[Illustration: “THE NIGHT WRACK.” BY JULIUS OLSSON, A.R.A.]
 
-<div class="figcenter"><a href="images/ill_pg_075.jpg">
-<img src="images/ill_pg_075.jpg"
-height="600" alt="[Image unavailable.]" /></a>
-<p class="csml">(<i>In the possession of Mr. John A. Cooling</i>)</p>
+[Illustration: “HEAVY WEATHER IN THE CHANNEL.” BY JULIUS OLSSON,
+A.R.A.]
 
-<p>“IN PORT.” BY FRANK BRANGWYN, R.A.</p></div>
+[Illustration: “THE RED BEACH.” BY WALTER BAYES, A.R.W.S.]
 
-<p><span class="pagenum"><a name="page_76" id="page_76">{76}</a></span>&nbsp; </p>
+[Illustration: “THE TIMID BATHER.” BY WALTER BAYES, A.R.W.S.]
 
-<p><span class="pagenum"><a name="page_77" id="page_77">{77]</a></span>&nbsp; </p>
+[Illustration: “STORM ON THE CORNISH COAST.” BY THE HON. DUFF
+TOLLEMACHE]
 
-<div class="figcenter"><a href="images/ill_pg_077.jpg">
-<img src="images/ill_pg_077.jpg"
-width="600" alt="[Image unavailable.]" /></a>
-<p class="csml"><i>Photo, Mansell</i></p>
+[Illustration: (_In the possession of Capt. W. N. McClean_)
 
-<p>(<i>By permission of the Leeds Art Gallery Committee</i>)</p>
+“THE WATCH THAT NEVER ENDS.” BY ARTHUR J. W. BURGESS, R.I.]
 
-<p>“A CHANGE OF WIND: BOULOGNE HARBOUR.” BY T. B. HARDY</p></div>
+[Illustration: “THE SCARBOROUGH FLEET.” BY ARTHUR J. W. BURGESS, R.I.]
 
-<p><span class="pagenum"><a name="page_78" id="page_78">{78]</a></span></p>
+[Illustration: “THE DECK OF A TEA-CLIPPER IN THE TROPICS.” BY JOHN
+EVERETT]
 
-<div class="figcenter"><a href="images/ill_pg_078.jpg">
-<img src="images/ill_pg_078.jpg"
-width="600" alt="[Image unavailable.]" /></a>
-<p class="csml"><i>Photo, Mansell</i></p>
+[Illustration: “BREAKERS.” BY JOHN EVERETT]
 
-<p>(<i>By permission of the Oldham Art Gallery Committee</i>)</p>
+[Illustration: “MARGATE.” BY JAMES McBEY]
 
-<p>“A BOAT ADRIFT.” BY C. NAPIER HEMY, R.A., R.W.S.</p></div>
+[Illustration: (_In the possession of Messrs Ernest Brown & Phillips,
+The Leicester Galleries_)
 
-<p><span class="pagenum"><a name="page_79" id="page_79">{79]</a></span></p>
+“THE WAVE.” BY C. R. W. NEVINSON]
 
-<div class="figcenter"><a href="images/ill_pg_079.jpg">
-<img src="images/ill_pg_079.jpg"
-width="600" alt="[Image unavailable.]" /></a>
-<p>“EVENING.” THE COAST OF SPAIN FROM TANGIER. BY SIR JOHN
-LAVERY, A.R.A., R.S.A.</p></div>
+[Illustration: “LOW WATER, PENZANCE.” BY W. T. M. HAWKSWORTH, R.B.A.]
 
-<p><span class="pagenum"><a name="page_80" id="page_80">{80}</a></span>&nbsp; </p>
+[Illustration: “WET ROCKS, ST. IVES.” BY R. BORLASE SMART, R.B.A.]
 
-<p><span class="pagenum"><a name="page_81" id="page_81">{81]</a></span>&nbsp; </p>
+[Illustration: (_By permission of the Imperial War Museum_)
 
-<div class="figcenter"><a href="images/ill_pg_081.jpg">
-<img src="images/ill_pg_081.jpg"
-width="600" alt="[Image unavailable.]" /></a>
-<p>“BLAKE’S THREE DAYS ENGAGEMENT WITH VAN TROMP.” BY W. L.
-WYLLIE, R.A.</p></div>
+“MOTOR LAUNCHES” BY G. S. ALLFREE]
 
-<p><span class="pagenum"><a name="page_82" id="page_82">{82]</a></span></p>
+[Illustration: “COAST SCENE.” BY I. W. BROOKS]
 
-<div class="figcenter"><a href="images/ill_pg_082.jpg">
-<img src="images/ill_pg_082.jpg"
-width="600" alt="[Image unavailable.]" /></a>
-<p class="csml"><i>Photo, Mansell</i></p>
+[Illustration: “IN CYMYRAN BAY.” BY I. W. BROOKS]
 
-<p class="csml">(<i>In the National Gallery of British Art, London</i>)</p>
+[Illustration: “COAST SCENE.” BY I. W. BROOKS]
 
-<p>“OFF VALPARAISO.” BY THOMAS SOMERSCALES</p></div>
+[Illustration: “CLOUDS OVER THE SEA, HOLLAND” BY TERRICK WILLIAMS,
+R.I.]
 
-<p><span class="pagenum"><a name="page_83" id="page_83">{83]</a></span></p>
+[Illustration: “THE ANCIENT PORT OF FÊQUES” BY FRANK L. EMANUEL]
 
-<div class="figcenter"><a href="images/ill_pg_083.jpg">
-<img src="images/ill_pg_083.jpg"
-width="600" alt="[Image unavailable.]" /></a>
-<p>“BEFORE THE GALE.” BY THOMAS SOMERSCALES</p></div>
+[Illustration: “ELIZABETH CASTLE, CHANNEL ISLANDS” BY E. A. COX,
+R.B.A.]
 
-<p><span class="pagenum"><a name="page_84" id="page_84">{84]</a></span></p>
+[Illustration: (_In the possession of H. A. Lay, Esq._)
 
-<div class="figcenter"><a href="images/ill_pg_084.jpg">
-<img src="images/ill_pg_084.jpg"
-width="600" alt="[Image unavailable.]" /></a>
-<p>“OFF TO THE FISHING GROUNDS.” BY ROBERT W. ALLAN,
-R.W.S.</p></div>
+“THE GOOD SHIP ‘ROSE ELIZABETH NOVEY.’” BY E. A. COX, R.B.A.]
 
-<p><span class="pagenum"><a name="page_85" id="page_85">{85]</a></span></p>
+*** END OF THE PROJECT GUTENBERG EBOOK BRITISH MARINE PAINTING ***
 
-<div class="figcenter"><a href="images/ill_pg_085.jpg">
-<img src="images/ill_pg_085.jpg"
-width="600" alt="[Image unavailable.]" /></a>
-<p>“LANDING FISH.” BY CHARLES W. SIMPSON, R.I., R.B.A.</p></div>
+Updated editions will replace the previous one--the old editions will
+be renamed.
 
-<p><span class="pagenum"><a name="page_86" id="page_86">{86}</a></span>&nbsp; </p>
+Creating the works from print editions not protected by U.S. copyright
+law means that no one owns a United States copyright in these works,
+so the Foundation (and you!) can copy and distribute it in the
+United States without permission and without paying copyright
+royalties. Special rules, set forth in the General Terms of Use part
+of this license, apply to copying and distributing Project
+Gutenberg-tm electronic works to protect the PROJECT GUTENBERG-tm
+concept and trademark. Project Gutenberg is a registered trademark,
+and may not be used if you charge for an eBook, except by following
+the terms of the trademark license, including paying royalties for use
+of the Project Gutenberg trademark. If you do not charge anything for
+copies of this eBook, complying with the trademark license is very
+easy. You may use this eBook for nearly any purpose such as creation
+of derivative works, reports, performances and research. Project
+Gutenberg eBooks may be modified and printed and given away--you may
+do practically ANYTHING in the United States with eBooks not protected
+by U.S. copyright law. Redistribution is subject to the trademark
+license, especially commercial redistribution.
 
-<p><span class="pagenum"><a name="page_87" id="page_87">{87]</a></span>&nbsp; </p>
+START: FULL LICENSE
 
-<div class="figcenter"><a href="images/ill_pg_087.jpg">
-<img src="images/ill_pg_087.jpg"
-height="600" alt="[Image unavailable.]" /></a>
-<p>“FLYING FISH.” BY HERBERT DRAPER</p></div>
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
 
-<p><span class="pagenum"><a name="page_88" id="page_88">{88]</a></span></p>
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full
+Project Gutenberg-tm License available with this file or online at
+www.gutenberg.org/license.
 
-<div class="figcenter"><a href="images/ill_pg_088.jpg">
-<img src="images/ill_pg_088.jpg"
-width="600" alt="[Image unavailable.]" /></a>
-<p class="csml"><i>Photo, Mansell</i></p>
+Section 1. General Terms of Use and Redistributing Project
+Gutenberg-tm electronic works
 
-<p class="csml">(<i>In the National Gallery of British Art, London</i>)</p>
+1.A. By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement. If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or
+destroy all copies of Project Gutenberg-tm electronic works in your
+possession. If you paid a fee for obtaining a copy of or access to a
+Project Gutenberg-tm electronic work and you do not agree to be bound
+by the terms of this agreement, you may obtain a refund from the
+person or entity to whom you paid the fee as set forth in paragraph
+1.E.8.
 
-<p>“AUGUST BLUE.” BY HENRY S. TUKE, R.A., R.W.S.</p></div>
+1.B. "Project Gutenberg" is a registered trademark. It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement. There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement. See
+paragraph 1.C below. There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this
+agreement and help preserve free future access to Project Gutenberg-tm
+electronic works. See paragraph 1.E below.
 
-<p><span class="pagenum"><a name="page_89" id="page_89">{89]</a></span></p>
+1.C. The Project Gutenberg Literary Archive Foundation ("the
+Foundation" or PGLAF), owns a compilation copyright in the collection
+of Project Gutenberg-tm electronic works. Nearly all the individual
+works in the collection are in the public domain in the United
+States. If an individual work is unprotected by copyright law in the
+United States and you are located in the United States, we do not
+claim a right to prevent you from copying, distributing, performing,
+displaying or creating derivative works based on the work as long as
+all references to Project Gutenberg are removed. Of course, we hope
+that you will support the Project Gutenberg-tm mission of promoting
+free access to electronic works by freely sharing Project Gutenberg-tm
+works in compliance with the terms of this agreement for keeping the
+Project Gutenberg-tm name associated with the work. You can easily
+comply with the terms of this agreement by keeping this work in the
+same format with its attached full Project Gutenberg-tm License when
+you share it without charge with others.
 
-<div class="figcenter"><a href="images/ill_pg_089.jpg">
-<img src="images/ill_pg_089.jpg"
-width="600" alt="[Image unavailable.]" /></a>
-<p>“THE FIEND’S WEATHER.” BY SIR DAVID MURRAY, R.A., P.R.I.,
-A.R.S.A.</p></div>
+1.D. The copyright laws of the place where you are located also govern
+what you can do with this work. Copyright laws in most countries are
+in a constant state of change. If you are outside the United States,
+check the laws of your country in addition to the terms of this
+agreement before downloading, copying, displaying, performing,
+distributing or creating derivative works based on this work or any
+other Project Gutenberg-tm work. The Foundation makes no
+representations concerning the copyright status of any work in any
+country other than the United States.
 
-<p><span class="pagenum"><a name="page_90" id="page_90">{90]</a></span></p>
+1.E. Unless you have removed all references to Project Gutenberg:
 
-<div class="figcenter"><a href="images/ill_pg_090.jpg">
-<img src="images/ill_pg_090.jpg"
-width="600" alt="[Image unavailable.]" /></a>
-<p>“WHERE THE SOMME MEETS THE SEA” BY TOM ROBERTSON</p></div>
+1.E.1. The following sentence, with active links to, or other
+immediate access to, the full Project Gutenberg-tm License must appear
+prominently whenever any copy of a Project Gutenberg-tm work (any work
+on which the phrase "Project Gutenberg" appears, or with which the
+phrase "Project Gutenberg" is associated) is accessed, displayed,
+performed, viewed, copied or distributed:
 
-<p><span class="pagenum"><a name="page_91" id="page_91">{91]</a></span></p>
+  This eBook is for the use of anyone anywhere in the United States and
+  most other parts of the world at no cost and with almost no
+  restrictions whatsoever. You may copy it, give it away or re-use it
+  under the terms of the Project Gutenberg License included with this
+  eBook or online at www.gutenberg.org. If you are not located in the
+  United States, you will have to check the laws of the country where
+  you are located before using this eBook.
 
-<div class="figcenter"><a href="images/ill_pg_091.jpg">
-<img src="images/ill_pg_091.jpg"
-width="600" alt="[Image unavailable.]" /></a>
-<p class="csml">(<i>In the possession of the Barcelona Corporation</i>)</p>
+1.E.2. If an individual Project Gutenberg-tm electronic work is
+derived from texts not protected by U.S. copyright law (does not
+contain a notice indicating that it is posted with permission of the
+copyright holder), the work can be copied and distributed to anyone in
+the United States without paying any fees or charges. If you are
+redistributing or providing access to a work with the phrase "Project
+Gutenberg" associated with or appearing on the work, you must comply
+either with the requirements of paragraphs 1.E.1 through 1.E.7 or
+obtain permission for the use of the work and the Project Gutenberg-tm
+trademark as set forth in paragraphs 1.E.8 or 1.E.9.
 
-<p>“THE STORM-CLOUD, CHRISTCHURCH HARBOUR” BY MOFFAT LINDNER, A.R.W.S.</p></div>
+1.E.3. If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any
+additional terms imposed by the copyright holder. Additional terms
+will be linked to the Project Gutenberg-tm License for all works
+posted with the permission of the copyright holder found at the
+beginning of this work.
 
-<p><span class="pagenum"><a name="page_92" id="page_92">{92}</a></span>&nbsp; </p>
+1.E.4. Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
 
-<p><span class="pagenum"><a name="page_93" id="page_93">{93]</a></span>&nbsp; </p>
+1.E.5. Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
 
-<div class="figcenter"><a href="images/ill_pg_093.jpg">
-<img src="images/ill_pg_093.jpg"
-width="600" alt="[Image unavailable.]" /></a>
-<p class="csml">(<i>In the possession of The Fine Art Society</i>)</p>
+1.E.6. You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including
+any word processing or hypertext form. However, if you provide access
+to or distribute copies of a Project Gutenberg-tm work in a format
+other than "Plain Vanilla ASCII" or other format used in the official
+version posted on the official Project Gutenberg-tm website
+(www.gutenberg.org), you must, at no additional cost, fee or expense
+to the user, provide a copy, a means of exporting a copy, or a means
+of obtaining a copy upon request, of the work in its original "Plain
+Vanilla ASCII" or other form. Any alternate format must include the
+full Project Gutenberg-tm License as specified in paragraph 1.E.1.
 
-<p>“THE FANE ISLANDS.” BY W. RUSSELL FLINT, R.W.S.</p></div>
+1.E.7. Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
 
-<p><span class="pagenum"><a name="page_94" id="page_94">{94}</a></span>&nbsp; </p>
+1.E.8. You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works
+provided that:
 
-<p><span class="pagenum"><a name="page_95" id="page_95">{95]</a></span>&nbsp; </p>
+* You pay a royalty fee of 20% of the gross profits you derive from
+  the use of Project Gutenberg-tm works calculated using the method
+  you already use to calculate your applicable taxes. The fee is owed
+  to the owner of the Project Gutenberg-tm trademark, but he has
+  agreed to donate royalties under this paragraph to the Project
+  Gutenberg Literary Archive Foundation. Royalty payments must be paid
+  within 60 days following each date on which you prepare (or are
+  legally required to prepare) your periodic tax returns. Royalty
+  payments should be clearly marked as such and sent to the Project
+  Gutenberg Literary Archive Foundation at the address specified in
+  Section 4, "Information about donations to the Project Gutenberg
+  Literary Archive Foundation."
 
-<div class="figcenter"><a href="images/ill_pg_095.jpg">
-<img src="images/ill_pg_095.jpg"
-width="600" alt="[Image unavailable.]" /></a>
-<p class="csml">(<i>In the possession of The Fine Art Society</i>)</p>
+* You provide a full refund of any money paid by a user who notifies
+  you in writing (or by e-mail) within 30 days of receipt that s/he
+  does not agree to the terms of the full Project Gutenberg-tm
+  License. You must require such a user to return or destroy all
+  copies of the works possessed in a physical medium and discontinue
+  all use of and all access to other copies of Project Gutenberg-tm
+  works.
 
-<p>“PASSING SAILS.” BY W. RUSSELL FLINT, R.W.S.</p></div>
+* You provide, in accordance with paragraph 1.F.3, a full refund of
+  any money paid for a work or a replacement copy, if a defect in the
+  electronic work is discovered and reported to you within 90 days of
+  receipt of the work.
 
-<p><span class="pagenum"><a name="page_96" id="page_96">{96}</a></span>&nbsp; </p>
+* You comply with all other terms of this agreement for free
+  distribution of Project Gutenberg-tm works.
 
-<p><span class="pagenum"><a name="page_97" id="page_97">{97]</a></span>&nbsp; </p>
+1.E.9. If you wish to charge a fee or distribute a Project
+Gutenberg-tm electronic work or group of works on different terms than
+are set forth in this agreement, you must obtain permission in writing
+from the Project Gutenberg Literary Archive Foundation, the manager of
+the Project Gutenberg-tm trademark. Contact the Foundation as set
+forth in Section 3 below.
 
-<div class="figcenter"><a href="images/ill_pg_097.jpg">
-<img src="images/ill_pg_097.jpg"
-width="600" alt="[Image unavailable.]" /></a>
-<p>(<i>By permission of the Imperial War Museum</i>)</p>
+1.F.
 
-<p>“H.M.S. ‘WOLSEY’ IN THE ICE AT LIBAU.” BY CECIL KING</p></div>
+1.F.1. Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+works not protected by U.S. copyright law in creating the Project
+Gutenberg-tm collection. Despite these efforts, Project Gutenberg-tm
+electronic works, and the medium on which they may be stored, may
+contain "Defects," such as, but not limited to, incomplete, inaccurate
+or corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged disk or
+other medium, a computer virus, or computer codes that damage or
+cannot be read by your equipment.
 
-<p><span class="pagenum"><a name="page_98" id="page_98">{98]</a></span></p>
+1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
 
-<div class="figcenter"><a href="images/ill_pg_098.jpg">
-<img src="images/ill_pg_098.jpg"
-width="600" alt="[Image unavailable.]" /></a>
-<p>“REGATTA DAY AT APPLEDORE.” BY CECIL KING</p></div>
+1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from. If you
+received the work on a physical medium, you must return the medium
+with your written explanation. The person or entity that provided you
+with the defective work may elect to provide a replacement copy in
+lieu of a refund. If you received the work electronically, the person
+or entity providing it to you may choose to give you a second
+opportunity to receive the work electronically in lieu of a refund. If
+the second copy is also defective, you may demand a refund in writing
+without further opportunities to fix the problem.
 
-<p><span class="pagenum"><a name="page_99" id="page_99">{99]</a></span></p>
+1.F.4. Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS', WITH NO
+OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
 
-<div class="figcenter"><a href="images/ill_pg_099.jpg">
-<img src="images/ill_pg_099.jpg"
-width="600" alt="[Image unavailable.]" /></a>
-<p>“ETRETAT.” BY NORMAN WILKINSON, R.I.</p></div>
+1.F.5. Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of
+damages. If any disclaimer or limitation set forth in this agreement
+violates the law of the state applicable to this agreement, the
+agreement shall be interpreted to make the maximum disclaimer or
+limitation permitted by the applicable state law. The invalidity or
+unenforceability of any provision of this agreement shall not void the
+remaining provisions.
 
-<p><span class="pagenum"><a name="page_100" id="page_100">{100]</a></span></p>
+1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in
+accordance with this agreement, and any volunteers associated with the
+production, promotion and distribution of Project Gutenberg-tm
+electronic works, harmless from all liability, costs and expenses,
+including legal fees, that arise directly or indirectly from any of
+the following which you do or cause to occur: (a) distribution of this
+or any Project Gutenberg-tm work, (b) alteration, modification, or
+additions or deletions to any Project Gutenberg-tm work, and (c) any
+Defect you cause.
 
-<div class="figcenter"><a href="images/ill_pg_100.jpg">
-<img src="images/ill_pg_100.jpg"
-width="600" alt="[Image unavailable.]" /></a>
-<p>“PLYMOUTH HARBOUR.” BY NORMAN WILKINSON, R.I.</p></div>
+Section 2. Information about the Mission of Project Gutenberg-tm
 
-<p><span class="pagenum"><a name="page_101" id="page_101">{101]</a></span></p>
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of
+computers including obsolete, old, middle-aged and new computers. It
+exists because of the efforts of hundreds of volunteers and donations
+from people in all walks of life.
 
-<div class="figcenter"><a href="images/ill_pg_101.jpg">
-<img src="images/ill_pg_101.jpg"
-width="600" alt="[Image unavailable.]" /></a>
-<p>“THE WAVE.” BY NORMAN WILKINSON, R.I.</p></div>
+Volunteers and financial support to provide volunteers with the
+assistance they need are critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come. In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future
+generations. To learn more about the Project Gutenberg Literary
+Archive Foundation and how your efforts and donations can help, see
+Sections 3 and 4 and the Foundation information page at
+www.gutenberg.org
 
-<p><span class="pagenum"><a name="page_102" id="page_102">{102}</a></span>&nbsp; </p>
+Section 3. Information about the Project Gutenberg Literary
+Archive Foundation
 
-<p><span class="pagenum"><a name="page_103" id="page_103">{103]</a></span>&nbsp; </p>
+The Project Gutenberg Literary Archive Foundation is a non-profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service. The Foundation's EIN or federal tax identification
+number is 64-6221541. Contributions to the Project Gutenberg Literary
+Archive Foundation are tax deductible to the full extent permitted by
+U.S. federal laws and your state's laws.
 
-<div class="figcenter"><a href="images/ill_pg_103.jpg">
-<img src="images/ill_pg_103.jpg"
-width="600" alt="[Image unavailable.]" /></a>
-<p>“UP CHANNEL.” BY NORMAN WILKINSON, R.I.</p></div>
+The Foundation's business office is located at 809 North 1500 West,
+Salt Lake City, UT 84116, (801) 596-1887. Email contact links and up
+to date contact information can be found at the Foundation's website
+and official page at www.gutenberg.org/contact
 
-<p><span class="pagenum"><a name="page_104" id="page_104">{104]</a></span></p>
+Section 4. Information about Donations to the Project Gutenberg
+Literary Archive Foundation
 
-<div class="figcenter"><a href="images/ill_pg_104.jpg">
-<img src="images/ill_pg_104.jpg"
-width="600" alt="[Image unavailable.]" /></a>
-<p>“WINDBOUND.” BY HELY SMITH, R.B.A</p></div>
+Project Gutenberg-tm depends upon and cannot survive without
+widespread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine-readable form accessible by the widest
+array of equipment including outdated equipment. Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
 
-<p><span class="pagenum"><a name="page_105" id="page_105">{105]</a></span></p>
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States. Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements. We do not solicit donations in locations
+where we have not received written confirmation of compliance. To SEND
+DONATIONS or determine the status of compliance for any particular
+state visit www.gutenberg.org/donate
 
-<div class="figcenter"><a href="images/ill_pg_105.jpg">
-<img src="images/ill_pg_105.jpg"
-width="600" alt="[Image unavailable.]" /></a>
-<p>“THE YACHT RACE.” BY CHARLES PEARS</p></div>
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
 
-<p><span class="pagenum"><a name="page_106" id="page_106">{106]</a></span></p>
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States. U.S. laws alone swamp our small staff.
 
-<div class="figcenter"><a href="images/ill_pg_106.jpg">
-<img src="images/ill_pg_106.jpg"
-width="600" alt="[Image unavailable.]" /></a>
-<p>“THE EXAMINATION.” BY CHARLES PEARS</p></div>
+Please check the Project Gutenberg web pages for current donation
+methods and addresses. Donations are accepted in a number of other
+ways including checks, online payments and credit card donations. To
+donate, please visit: www.gutenberg.org/donate
 
-<p><span class="pagenum"><a name="page_107" id="page_107">{107]</a></span></p>
+Section 5. General Information About Project Gutenberg-tm electronic works
 
-<div class="figcenter"><a href="images/ill_pg_107.jpg">
-<img src="images/ill_pg_107.jpg"
-width="600" alt="[Image unavailable.]" /></a>
-<p>“THE NEEDLES.” BY CHARLES PEARS</p></div>
+Professor Michael S. Hart was the originator of the Project
+Gutenberg-tm concept of a library of electronic works that could be
+freely shared with anyone. For forty years, he produced and
+distributed Project Gutenberg-tm eBooks with only a loose network of
+volunteer support.
 
-<p><span class="pagenum"><a name="page_108" id="page_108">{108}</a></span>&nbsp; </p>
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as not protected by copyright in
+the U.S. unless a copyright notice is included. Thus, we do not
+necessarily keep eBooks in compliance with any particular paper
+edition.
 
-<p><span class="pagenum"><a name="page_109" id="page_109">{109]</a></span>&nbsp; </p>
+Most people start at our website which has the main PG search
+facility: www.gutenberg.org
 
-<div class="figcenter"><a href="images/ill_pg_109.jpg">
-<img src="images/ill_pg_109.jpg"
-width="600" alt="[Image unavailable.]" /></a>
-<p>“THE SEA.” BY W. MARSHALL BROWN, A.R.S.A.</p></div>
-
-<p><span class="pagenum"><a name="page_110" id="page_110">{110]</a></span></p>
-
-<div class="figcenter"><a href="images/ill_pg_110.jpg">
-<img src="images/ill_pg_110.jpg"
-width="600" alt="[Image unavailable.]" /></a>
-<p>“THE NIGHT WRACK.” BY JULIUS OLSSON, A.R.A.</p></div>
-
-<p><span class="pagenum"><a name="page_111" id="page_111">{111]</a></span></p>
-
-<div class="figcenter"><a href="images/ill_pg_111.jpg">
-<img src="images/ill_pg_111.jpg"
-width="600" alt="[Image unavailable.]" /></a>
-<p>“HEAVY WEATHER IN THE CHANNEL.” BY JULIUS OLSSON,
-A.R.A.</p></div>
-
-<p><span class="pagenum"><a name="page_112" id="page_112">{112]</a></span></p>
-
-<div class="figcenter"><a href="images/ill_pg_112.jpg">
-<img src="images/ill_pg_112.jpg"
-width="600" alt="[Image unavailable.]" /></a>
-<p>“THE RED BEACH.” BY WALTER BAYES, A.R.W.S.</p></div>
-
-<p><span class="pagenum"><a name="page_113" id="page_113">{113]</a></span></p>
-
-<div class="figcenter"><a href="images/ill_pg_113.jpg">
-<img src="images/ill_pg_113.jpg"
-height="600" alt="[Image unavailable.]" /></a>
-<p>“THE TIMID BATHER.” BY WALTER BAYES, A.R.W.S.</p></div>
-
-<p><span class="pagenum"><a name="page_114" id="page_114">{114}</a></span>&nbsp; </p>
-
-<p><span class="pagenum"><a name="page_115" id="page_115">{115]</a></span>&nbsp; </p>
-
-<div class="figcenter"><a href="images/ill_pg_115.jpg">
-<img src="images/ill_pg_115.jpg"
-width="600" alt="[Image unavailable.]" /></a>
-<p>“STORM ON THE CORNISH COAST.” BY THE HON. DUFF
-TOLLEMACHE</p></div>
-
-<p><span class="pagenum"><a name="page_116" id="page_116">{116]</a></span></p>
-
-<div class="figcenter"><a href="images/ill_pg_116.jpg">
-<img src="images/ill_pg_116.jpg"
-width="600" alt="[Image unavailable.]" /></a>
-<p class="csml">(<i>In the possession of Capt. W. N. McClean</i>)</p>
-
-<p>“THE WATCH THAT NEVER ENDS.” BY ARTHUR J. W. BURGESS, R.I.</p></div>
-
-<p><span class="pagenum"><a name="page_117" id="page_117">{117]</a></span></p>
-
-<div class="figcenter"><a href="images/ill_pg_117.jpg">
-<img src="images/ill_pg_117.jpg"
-width="600" alt="[Image unavailable.]" /></a>
-<p>“THE SCARBOROUGH FLEET.” BY ARTHUR J. W. BURGESS, R.I.</p></div>
-
-<p><span class="pagenum"><a name="page_118" id="page_118">{118]</a></span></p>
-
-<div class="figcenter"><a href="images/ill_pg_118.jpg">
-<img src="images/ill_pg_118.jpg"
-height="600" alt="[Image unavailable.]" /></a>
-<p>“THE DECK OF A TEA-CLIPPER IN THE TROPICS.” BY JOHN
-EVERETT</p></div>
-
-<p><span class="pagenum"><a name="page_119" id="page_119">{119]</a></span></p>
-
-<div class="figcenter"><a href="images/ill_pg_119.jpg">
-<img src="images/ill_pg_119.jpg"
-width="600" alt="[Image unavailable.]" /></a>
-<p>“BREAKERS.” BY JOHN EVERETT</p></div>
-
-<p><span class="pagenum"><a name="page_120" id="page_120">{120}</a></span>&nbsp; </p>
-
-<p><span class="pagenum"><a name="page_121" id="page_121">{121]</a></span>&nbsp; </p>
-
-<div class="figcenter"><a href="images/ill_pg_121.jpg">
-<img src="images/ill_pg_121.jpg"
-width="600" alt="[Image unavailable.]" /></a>
-<p>“MARGATE.” BY JAMES McBEY</p></div>
-
-<p><span class="pagenum"><a name="page_122" id="page_122">{122}</a></span>&nbsp; </p>
-
-<p><span class="pagenum"><a name="page_123" id="page_123">{123]</a></span>&nbsp; </p>
-
-<div class="figcenter"><a href="images/ill_pg_123.jpg">
-<img src="images/ill_pg_123.jpg"
-width="600" alt="[Image unavailable.]" /></a>
-<p class="csml">(<i>In the possession of Messrs Ernest Brown &amp; Phillips,
-The Leicester Galleries</i>)</p>
-
-<p>“THE WAVE.” BY C. R. W. NEVINSON</p></div>
-
-<p><span class="pagenum"><a name="page_124" id="page_124">{124}</a></span>&nbsp; </p>
-
-<p><span class="pagenum"><a name="page_125" id="page_125">{125]</a></span>&nbsp; </p>
-
-<div class="figcenter"><a href="images/ill_pg_125.jpg">
-<img src="images/ill_pg_125.jpg"
-height="600" alt="[Image unavailable.]" /></a>
-<p>“LOW WATER, PENZANCE.” BY W. T. M. HAWKSWORTH, R.B.A.</p></div>
-
-<p><span class="pagenum"><a name="page_126" id="page_126">{126]</a></span></p>
-
-<div class="figcenter"><a href="images/ill_pg_126.jpg">
-<img src="images/ill_pg_126.jpg"
-width="600" alt="[Image unavailable.]" /></a>
-<p>“WET ROCKS, ST. IVES.” BY R. BORLASE SMART, R.B.A.</p></div>
-
-<p><span class="pagenum"><a name="page_127" id="page_127">{127]</a></span></p>
-
-<div class="figcenter"><a href="images/ill_pg_127.jpg">
-<img src="images/ill_pg_127.jpg"
-width="600" alt="[Image unavailable.]" /></a>
-<p>(<i>By permission of the Imperial War Museum</i>)</p>
-
-<p>“MOTOR LAUNCHES” BY G. S. ALLFREE</p></div>
-
-<p><span class="pagenum"><a name="page_128" id="page_128">{128]</a></span></p>
-
-<div class="figcenter"><a href="images/ill_pg_128.jpg">
-<img src="images/ill_pg_128.jpg"
-height="600" alt="[Image unavailable.]" /></a>
-<p>“COAST SCENE.” BY I. W. BROOKS</p></div>
-
-<p><span class="pagenum"><a name="page_129" id="page_129">{129]</a></span></p>
-
-<div class="figcenter"><a href="images/ill_pg_129.jpg">
-<img src="images/ill_pg_129.jpg"
-width="600" alt="[Image unavailable.]" /></a>
-<p>“IN CYMYRAN BAY.” BY I. W. BROOKS</p></div>
-
-<p><span class="pagenum"><a name="page_130" id="page_130">{130}</a></span>&nbsp; </p>
-
-<p><span class="pagenum"><a name="page_131" id="page_131">{131]</a></span>&nbsp; </p>
-
-<div class="figcenter"><a href="images/ill_pg_131.jpg">
-<img src="images/ill_pg_131.jpg"
-width="600" alt="[Image unavailable.]" /></a>
-<p>“COAST SCENE.” BY I. W. BROOKS</p></div>
-
-<p><span class="pagenum"><a name="page_132" id="page_132">{132]</a></span></p>
-
-<div class="figcenter"><a href="images/ill_pg_132.jpg">
-<img src="images/ill_pg_132.jpg"
-width="600" alt="[Image unavailable.]" /></a>
-<p>“CLOUDS OVER THE SEA, HOLLAND” BY TERRICK WILLIAMS,
-R.I.</p></div>
-
-<p><span class="pagenum"><a name="page_133" id="page_133">{133]</a></span></p>
-
-<div class="figcenter"><a href="images/ill_pg_133.jpg">
-<img src="images/ill_pg_133.jpg"
-width="600" alt="[Image unavailable.]" /></a>
-<p>“THE ANCIENT PORT OF FÊQUES” BY FRANK L. EMANUEL</p></div>
-
-<p><span class="pagenum"><a name="page_134" id="page_134">{134]</a></span></p>
-
-<div class="figcenter"><a href="images/ill_pg_134.jpg">
-<img src="images/ill_pg_134.jpg"
-width="600" alt="[Image unavailable.]" /></a>
-<p>“ELIZABETH CASTLE, CHANNEL ISLANDS” BY E. A. COX,
-R.B.A.</p></div>
-
-<p><span class="pagenum"><a name="page_135" id="page_135">{135]</a></span></p>
-
-<div class="figcenter"><a href="images/ill_pg_135.jpg">
-<img src="images/ill_pg_135.jpg"
-height="600" alt="[Image unavailable.]" /></a>
-<p class="csml">(<i>In the possession of H. A. Lay, Esq.</i>)</p>
-
-<p>“THE GOOD SHIP ‘ROSE ELIZABETH NOVEY.’” BY E. A. COX, R.B.A.</p></div>
-
-<hr class="full" />
-<div>*** END OF THE PROJECT GUTENBERG EBOOK 65466 ***</div>
-</body>
-</html>
+This website includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
